@@ -58,8 +58,11 @@ def crawl_day(day):
 
 def main():
     days = {}
-    for i in range(7):
-        d = TODAY + datetime.timedelta(days=i)
+    # 이번 주 월요일부터 오늘+7일까지 수집 (주말에도 이번 주 식단 확보)
+    start = TODAY - datetime.timedelta(days=TODAY.weekday())
+    total = (TODAY + datetime.timedelta(days=7) - start).days + 1
+    for i in range(total):
+        d = start + datetime.timedelta(days=i)
         try:
             got = crawl_day(d)
             if got: days[d.isoformat()] = got
