@@ -1,91 +1,74 @@
 # -*- coding: utf-8 -*-
-"""봉룡학사(수원 자과캠 기숙사) 식단 크롤러 → data/meals.json
-⚠️ 학교 사이트가 개편되면 아래 SOURCES의 주소만 바꿔 주세요.
-   표(table)에서 날짜 헤더와 조식/중식/석식 행을 찾아내는 범용 방식이라
-   대부분의 표 형태 식단 페이지에 그대로 동작합니다."""
-import json, re, datetime, pathlib
+"""봉룡학사 식단 크롤러 → data/meals.json
+봉룡학사 공식 일별 식단 페이지에서 오늘부터 7일치를 가져옵니다.
+페이지: dorm.skku.edu 주간 식단표 (board_no=61)"""
+import json, re, datetime, pathlib, time
 import requests
 from bs4 import BeautifulSoup
 
-SOURCES = [
-    # 후보 주소 — 위에서부터 차례로 시도해서 처음 성공하는 걸 씁니다.
-    "https://dorm.skku.edu/dorm_suwon/menu_suwon/food_menu.jsp",
-    "https://dorm.skku.edu/skku/menu/food_menu.jsp",
-    "https://dorm.skku.edu/dorm_suwon/food/food_menu.jsp",
-]
+MENU_URL = "https://dorm.skku.edu/_custom/skku/_common/board/schedule_menu/food_menu_page.jsp"
+BOARD_NO = "61"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "data" / "meals.json"
-HEADERS = {"User-Agent": "Mozilla/5.0 (skku-meals bot)"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (damda meals bot)"}
 KST = datetime.timezone(datetime.timedelta(hours=9))
 TODAY = datetime.datetime.now(KST).date()
-MEAL_KEYS = {"조식": "breakfast", "아침": "breakfast", "중식": "lunch", "점심": "lunch", "석식": "dinner", "저녁": "dinner"}
+TIME_RE = re.compile(r"(\d{1,2}):(\d{2})\s*[~∼]\s*\d{1,2}:\d{2}")
+VENUE_RE = re.compile(r"^(공통|신관|지관|인관|의관|예관|Take-?out.*)$", re.I)
 
-def parse_date(text):
-    m = re.search(r"(\d{1,2})\s*[./월]\s*(\d{1,2})", text)
-    if not m: return None
-    mo, d = int(m[1]), int(m[2])
-    if not (1 <= mo <= 12 and 1 <= d <= 31): return None
-    year = TODAY.year
-    try: dt = datetime.date(year, mo, d)
-    except ValueError: return None
-    if (TODAY - dt).days > 180: dt = datetime.date(year + 1, mo, d)
-    if (dt - TODAY).days > 180: dt = datetime.date(year - 1, mo, d)
-    return dt.isoformat()
+def meal_of(hour):
+    if hour < 10: return "breakfast"
+    if hour < 15: return "lunch"
+    return "dinner"
 
-def split_menu(cell_text):
-    parts = re.split(r"[\n,/·]|(?:\s{2,})", cell_text)
-    return [p.strip() for p in parts if p.strip() and len(p.strip()) <= 30][:8]
+def clean_items(raw):
+    out = []
+    for p in re.split(r"[,\n]", raw):
+        p = p.strip()
+        if not p: continue
+        if re.fullmatch(r"\*?[\d,]+원?\*?", p): continue   # *6,000* 가격 표기
+        if VENUE_RE.match(p): continue                      # 장소 이름
+        p = re.sub(r"\*[\d,]+\*", "", p).strip("*· ").strip()
+        if p and len(p) <= 40: out.append(p)
+    return out
 
-def parse_tables(soup):
-    days = {}
-    for table in soup.find_all("table"):
-        t = table.get_text(" ", strip=True)
-        if not any(k in t for k in MEAL_KEYS): continue
-        rows = table.find_all("tr")
-        if not rows: continue
-        # 날짜 헤더 행 찾기
-        header_dates = []
-        for row in rows[:3]:
-            cells = row.find_all(["th", "td"])
-            cand = [parse_date(c.get_text(" ", strip=True)) for c in cells]
-            if sum(1 for x in cand if x) >= 2:
-                header_dates = cand; break
-        if not header_dates: continue
-        for row in rows:
-            cells = row.find_all(["th", "td"])
-            if not cells: continue
-            label = cells[0].get_text(" ", strip=True)
-            meal = next((v for k, v in MEAL_KEYS.items() if k in label), None)
-            if not meal: continue
-            for idx, cell in enumerate(cells):
-                if idx >= len(header_dates) or not header_dates[idx]: continue
-                menu = split_menu(cell.get_text("\n", strip=True))
-                if not menu: continue
-                day = days.setdefault(header_dates[idx], {})
-                day.setdefault(meal, menu)
-    return days
+def crawl_day(day):
+    r = requests.get(MENU_URL, params={"date": day.isoformat(), "board_no": BOARD_NO, "lng": "ko"},
+                     headers=HEADERS, timeout=20)
+    r.raise_for_status()
+    r.encoding = r.apparent_encoding
+    text = BeautifulSoup(r.text, "lxml").get_text("\n", strip=True)
+    meals = {"breakfast": [], "lunch": [], "dinner": []}
+    takeout = {"breakfast": [], "lunch": [], "dinner": []}
+    for m in TIME_RE.finditer(text):
+        meal = meal_of(int(m.group(1)))
+        before = text[:m.start()].rstrip("\n ").rsplit("\n", 1)[-1]
+        nxt = TIME_RE.search(text, m.end())
+        chunk = text[m.end(): nxt.start() if nxt else len(text)]
+        items = clean_items(chunk)
+        (takeout if "take" in before.lower() else meals)[meal].extend(items)
+    day_data = {}
+    for k in ("breakfast", "lunch", "dinner"):
+        merged = meals[k] or takeout[k]   # 정식 메뉴 우선, 없으면 테이크아웃
+        seen, final = set(), []
+        for it in merged:
+            if it not in seen:
+                seen.add(it); final.append(it)
+        if final: day_data[k] = final[:8]
+    return day_data
 
 def main():
     days = {}
-    for url in SOURCES:
+    for i in range(7):
+        d = TODAY + datetime.timedelta(days=i)
         try:
-            r = requests.get(url, headers=HEADERS, timeout=20)
-            if r.status_code != 200: print(f"[meals] {url} → {r.status_code}"); continue
-            r.encoding = r.apparent_encoding
-            got = parse_tables(BeautifulSoup(r.text, "lxml"))
-            if got:
-                days = got; print(f"[meals] {url} 성공: {len(got)}일치"); break
-            print(f"[meals] {url} 표는 있는데 식단을 못 읽음")
+            got = crawl_day(d)
+            if got: days[d.isoformat()] = got
+            print(f"[meals] {d}: {'OK ' + str(list(got.keys())) if got else '메뉴 없음'}")
+            time.sleep(0.5)
         except Exception as e:
-            print(f"[meals] {url} 실패: {e}")
-    if not days:
-        if OUT.exists(): print("[meals] 새 데이터 없음 → 기존 파일 유지"); return
-        print("[meals] 첫 실행인데 데이터 없음 → 빈 파일 생성")
-    else:
-        # 기존 데이터와 병합 (지난 날짜 지우고 새 날짜 덮어쓰기)
-        try: prev = json.loads(OUT.read_text(encoding="utf-8")).get("days", {})
-        except Exception: prev = {}
-        keep = {k: v for k, v in prev.items() if k >= TODAY.isoformat()}
-        keep.update(days); days = keep
+            print(f"[meals] {d} 실패: {e}")
+    if not days and OUT.exists():
+        print("[meals] 새 데이터 없음 → 기존 파일 유지"); return
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({
         "updated": datetime.datetime.now(KST).isoformat(timespec="seconds"),
