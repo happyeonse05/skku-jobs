@@ -7,7 +7,8 @@ from bs4 import BeautifulSoup
 
 BOARDS = [
     # (게시판 이름, 목록 URL)
-    ("채용·모집", "https://www.skku.edu/skku/campus/skk_comm/notice06.do"),
+    ("채용·모집", "https://www.skku.edu/skku/campus/skk_comm/notice05.do"),
+    ("장학", "https://www.skku.edu/skku/campus/skk_comm/notice06.do"),
 ]
 OUT = pathlib.Path(__file__).resolve().parent.parent / "data" / "jobs.json"
 HEADERS = {"User-Agent": "Mozilla/5.0 (skku-jobs bot; +https://github.com)"}
