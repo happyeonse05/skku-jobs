@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T16:19:53+09:00",
+ "updated": "2026-09-21T07:59:13+09:00",
  "items": [
   {
    "id": "c50b57504794",
@@ -9,6 +9,13 @@
    "posted": "2026-09-18",
    "due": "2026-10-13",
    "dueText": "~10.13 마감 추정"
+  },
+  {
+   "id": "9fd1b59ce10a",
+   "title": "[모집] 2026 성북밀로 요리학교 : 문학을 요리하다",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140067&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-20"
   },
   {
    "id": "f6f82ff052ec",
@@ -84,13 +91,6 @@
    "posted": "2026-09-18",
    "due": "2026-10-05",
    "dueText": "~10.5 마감 추정"
-  },
-  {
-   "id": "1e8613bf02b1",
-   "title": "[스포츠재활 연구실] 만성 발목 불안정성 대상 감각-인지 기반 발목 재활운동 연구 참여자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139838&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-18"
   },
   {
    "id": "21ed900ffb9f",
