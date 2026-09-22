@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-22T16:08:59+09:00",
+ "updated": "2026-09-23T08:29:45+09:00",
  "items": [
+  {
+   "id": "2bdeab5d2cc6",
+   "title": "[도서 증정 이벤트(~10/11)] 물리학과 한정훈 교수님의 <양자문명> 북토크 영상 시청하고 도서 선물 받자!",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140137&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-22",
+   "due": "2026-10-11",
+   "dueText": "~10/11 마감 추정"
+  },
   {
    "id": "d0fb2beeb0ad",
    "title": "2026 추석 연휴 안전조치사항 안내",
@@ -48,13 +57,6 @@
    "posted": "2026-09-21"
   },
   {
-   "id": "1dfd8a396913",
-   "title": "[인사캠] 2026년 10월 체력증진센터(경영관, 600주년기념관) 회원모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139770&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-21"
-  },
-  {
    "id": "53336eb26490",
    "title": "유학대학 80주년 기념 특별 강연 안내(9/11(금)~10/23(금))",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139709&article.offset=0&articleLimit=10",
@@ -69,6 +71,15 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139416&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-09-21"
+  },
+  {
+   "id": "acb4547d79f3",
+   "title": "[연장공지] 사회과학대학 행정조교(휴먼사이언스사회융합전공) 모집[~9.30.(수) 16:00까지, 조기채용시 마감 예정]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139593&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-22",
+   "due": "2026-09-30",
+   "dueText": "~9.30 마감 추정"
   },
   {
    "id": "b4fe52078c01",
@@ -140,11 +151,13 @@
    "posted": "2026-09-22"
   },
   {
-   "id": "b9f07884da8d",
-   "title": "[인재교육원] 2026년 중장년 평생대학 무료 교육 수강생 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140060&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-21"
+   "id": "ce074e5ccd9a",
+   "title": "[도서 증정 이벤트(~10/11)] 물리학과 한정훈 교수님의 <양자문명> 북토크 영상 시청하고 도서 선물 받자!",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140137&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-09-22",
+   "due": "2026-10-11",
+   "dueText": "~10/11 마감 추정"
   },
   {
    "id": "b8d84e0388a7",
@@ -189,13 +202,6 @@
    "id": "9709c8837ea5",
    "title": "[스포츠재활 연구실] 만성 발목 불안정성 대상 감각-인지 기반 발목 재활운동 연구 참여자 모집",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=139838&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-09-21"
-  },
-  {
-   "id": "9aa6ea0b14a7",
-   "title": "[인사캠] 2026년 10월 체력증진센터(경영관, 600주년기념관) 회원모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=139770&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-09-21"
   },
