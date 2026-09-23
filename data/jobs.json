@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T16:07:08+09:00",
+ "updated": "2026-09-24T08:25:49+09:00",
  "items": [
   {
    "id": "468d9de90c2d",
@@ -71,13 +71,6 @@
    "dueText": "~10.13 마감 추정"
   },
   {
-   "id": "1e8613bf02b1",
-   "title": "[스포츠재활 연구실] 만성 발목 불안정성 대상 감각-인지 기반 발목 재활운동 연구 참여자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139838&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-21"
-  },
-  {
    "id": "53336eb26490",
    "title": "유학대학 80주년 기념 특별 강연 안내(9/11(금)~10/23(금))",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139709&article.offset=0&articleLimit=10",
@@ -92,6 +85,15 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139416&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-09-21"
+  },
+  {
+   "id": "acb4547d79f3",
+   "title": "[연장공지] 사회과학대학 행정조교(휴먼사이언스사회융합전공) 모집[~9.30.(수) 16:00까지, 조기채용시 마감 예정]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139593&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-23",
+   "due": "2026-09-30",
+   "dueText": "~9.30 마감 추정"
   },
   {
    "id": "56ba6b217dee",
@@ -124,15 +126,6 @@
    "posted": "2026-09-23"
   },
   {
-   "id": "ecd7711fd6b1",
-   "title": "성균관대학교 글로벌창업대학원 자체계약직원 채용(~9/29 10시까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140161&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-23",
-   "due": "2026-09-29",
-   "dueText": "~9/29 마감 추정"
-  },
-  {
    "id": "d178f7ff572a",
    "title": "[뇌과학이미징연구단] (fMRI) 이야기/사건 실험 참여자 모집",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=137181&article.offset=0&articleLimit=10",
@@ -156,20 +149,20 @@
    "dueText": "~10/7 마감 추정"
   },
   {
-   "id": "acb4547d79f3",
-   "title": "[연장공지] 사회과학대학 행정조교(휴먼사이언스사회융합전공) 모집[~9.30.(수) 16:00까지, 조기채용시 마감 예정]",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139593&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-22",
-   "due": "2026-09-30",
-   "dueText": "~9.30 마감 추정"
-  },
-  {
    "id": "b4fe52078c01",
    "title": "[채용/모집]성균관대 나노튜브및나노복합구조연구센터 연구교수(비전임교원) 채용공고_11월",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140132&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-09-22"
+  },
+  {
+   "id": "f6f82ff052ec",
+   "title": "[마감] 사회과학대학 행정조교(글로벌리더학부) 모집[~9.22.(화) 16:00까지] (조기채용시 마감예정)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139783&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-22",
+   "due": "2026-09-22",
+   "dueText": "~9.22 마감 추정"
   },
   {
    "id": "d818c188a8f8",
@@ -239,13 +232,6 @@
    "posted": "2026-09-18",
    "due": "2026-10-13",
    "dueText": "~10.13 마감 추정"
-  },
-  {
-   "id": "9709c8837ea5",
-   "title": "[스포츠재활 연구실] 만성 발목 불안정성 대상 감각-인지 기반 발목 재활운동 연구 참여자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=139838&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-09-21"
   },
   {
    "id": "7bf460950762",
