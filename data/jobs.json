@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T15:57:25+09:00",
+ "updated": "2026-09-26T08:49:59+09:00",
  "items": [
   {
    "id": "468d9de90c2d",
@@ -78,6 +78,15 @@
    "posted": "2026-09-22",
    "due": "2026-10-23",
    "dueText": "~10/23 마감 추정"
+  },
+  {
+   "id": "929a9a6c69b2",
+   "title": "[앵커사업단] 제2회 Global Livinglab : AI × Traffic System 참가팀 모집(~9/27, 우수팀 태국탐방)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139686&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-25",
+   "due": "2026-09-27",
+   "dueText": "~9/27 마감 추정"
   },
   {
    "id": "8298734abc18",
@@ -241,6 +250,15 @@
    "posted": "2026-09-22",
    "due": "2026-10-23",
    "dueText": "~10/23 마감 추정"
+  },
+  {
+   "id": "2030acaa30e0",
+   "title": "[앵커사업단] 제2회 Global Livinglab : AI × Traffic System 참가팀 모집(~9/27, 우수팀 태국탐방)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=139686&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-09-25",
+   "due": "2026-09-27",
+   "dueText": "~9/27 마감 추정"
   },
   {
    "id": "738e6aba4654",
