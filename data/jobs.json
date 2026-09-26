@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T15:56:32+09:00",
+ "updated": "2026-09-27T08:22:44+09:00",
  "items": [
   {
    "id": "468d9de90c2d",
@@ -96,6 +96,15 @@
    "posted": "2026-09-21"
   },
   {
+   "id": "9db73144d708",
+   "title": "[스타벅스 기프티콘 증정] 2026년 학생성공역량 및 학습경험 설문조사 안내(~10/7)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139863&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-26",
+   "due": "2026-10-07",
+   "dueText": "~10/7 마감 추정"
+  },
+  {
    "id": "efdfdd55d173",
    "title": "[대학혁신과공유센터] 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
@@ -147,15 +156,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140148&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-09-23"
-  },
-  {
-   "id": "9db73144d708",
-   "title": "[스타벅스 기프티콘 증정] 2026년 학생성공역량 및 학습경험 설문조사 안내(~10/7)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139863&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-23",
-   "due": "2026-10-07",
-   "dueText": "~10/7 마감 추정"
   },
   {
    "id": "b4fe52078c01",
