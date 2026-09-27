@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T16:26:17+09:00",
+ "updated": "2026-09-28T08:39:48+09:00",
  "items": [
   {
    "id": "468d9de90c2d",
@@ -30,13 +30,6 @@
    "posted": "2026-09-23",
    "due": "2026-10-11",
    "dueText": "~10/11 마감 추정"
-  },
-  {
-   "id": "d0fb2beeb0ad",
-   "title": "2026 추석 연휴 안전조치사항 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140120&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-22"
   },
   {
    "id": "5d731e847196",
@@ -80,15 +73,6 @@
    "dueText": "~10/23 마감 추정"
   },
   {
-   "id": "929a9a6c69b2",
-   "title": "[앵커사업단] 제2회 Global Livinglab : AI × Traffic System 참가팀 모집(~9/27, 우수팀 태국탐방)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139686&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-25",
-   "due": "2026-09-27",
-   "dueText": "~9/27 마감 추정"
-  },
-  {
    "id": "8298734abc18",
    "title": "[기숙사]2026학년도 2학기 명륜학사 공석(남학생) 모집 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139416&article.offset=0&articleLimit=10",
@@ -110,6 +94,15 @@
    "posted": "2026-09-26",
    "due": "2026-10-07",
    "dueText": "~10/7 마감 추정"
+  },
+  {
+   "id": "929a9a6c69b2",
+   "title": "[앵커사업단] 제2회 Global Livinglab : AI × Traffic System 참가팀 모집(~9/27, 우수팀 태국탐방)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139686&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-25",
+   "due": "2026-09-27",
+   "dueText": "~9/27 마감 추정"
   },
   {
    "id": "efdfdd55d173",
@@ -165,13 +158,6 @@
    "posted": "2026-09-23"
   },
   {
-   "id": "b4fe52078c01",
-   "title": "[채용/모집]성균관대 나노튜브및나노복합구조연구센터 연구교수(비전임교원) 채용공고_11월",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140132&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-22"
-  },
-  {
    "id": "d818c188a8f8",
    "title": "[인공지능혁신융합대학사업단] 2026년 10월 전문가 특강 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140164&article.offset=0&articleLimit=10",
@@ -200,13 +186,6 @@
    "posted": "2026-09-23",
    "due": "2026-10-11",
    "dueText": "~10/11 마감 추정"
-  },
-  {
-   "id": "b8d84e0388a7",
-   "title": "2026 추석 연휴 안전조치사항 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140120&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-09-22"
   },
   {
    "id": "9b4552a9f9b0",
@@ -248,15 +227,6 @@
    "posted": "2026-09-22",
    "due": "2026-10-23",
    "dueText": "~10/23 마감 추정"
-  },
-  {
-   "id": "2030acaa30e0",
-   "title": "[앵커사업단] 제2회 Global Livinglab : AI × Traffic System 참가팀 모집(~9/27, 우수팀 태국탐방)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=139686&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-09-25",
-   "due": "2026-09-27",
-   "dueText": "~9/27 마감 추정"
   },
   {
    "id": "738e6aba4654",
