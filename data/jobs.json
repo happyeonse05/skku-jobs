@@ -1,6 +1,13 @@
 {
- "updated": "2026-09-28T08:39:48+09:00",
+ "updated": "2026-09-28T17:04:04+09:00",
  "items": [
+  {
+   "id": "e25038ed75b9",
+   "title": "성균관대학교 경기도 중장년 일자리 캠퍼스 행정 전담 인력 채용",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140179&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-28"
+  },
   {
    "id": "468d9de90c2d",
    "title": "[인공지능혁신융합대학사업단] 2026년 10월 전문가 특강 안내",
@@ -80,6 +87,15 @@
    "posted": "2026-09-21"
   },
   {
+   "id": "56ba6b217dee",
+   "title": "★ 기프티콘 증정 | 대학 내 학부연구생(학부인턴)의 연구실 경험 및 진로 인식 설문조사 (~09. 30)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140165&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-28",
+   "due": "2026-09-30",
+   "dueText": "~09. 30 마감 추정"
+  },
+  {
    "id": "99a9afbaed29",
    "title": "[모집] [자과캠] 박사후연구원/석박사과정생/학부연구생 모집 :: 유기 반도체 연구실(강보석 교수)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=106134&article.offset=0&articleLimit=10",
@@ -121,15 +137,6 @@
    "dueText": "~9.30 마감 추정"
   },
   {
-   "id": "56ba6b217dee",
-   "title": "★ 기프티콘 증정 | 대학 내 학부연구생(학부인턴)의 연구실 경험 및 진로 인식 설문조사 (~09. 30)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140165&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-23",
-   "due": "2026-09-30",
-   "dueText": "~09. 30 마감 추정"
-  },
-  {
    "id": "426c39263e82",
    "title": "2026-2학기 (2027년 전기) 일반대학원 인공지능학과 진학설명회 개최 안내 (9/29 화 17:00, 26106호/ZOOM)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139712&article.offset=0&articleLimit=10",
@@ -156,6 +163,13 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140148&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-09-23"
+  },
+  {
+   "id": "1d53bcedc557",
+   "title": "성균관대학교 경기도 중장년 일자리 캠퍼스 행정 전담 인력 채용",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140179&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-09-28"
   },
   {
    "id": "d818c188a8f8",
