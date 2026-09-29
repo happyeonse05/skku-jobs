@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T17:04:04+09:00",
+ "updated": "2026-09-29T09:49:24+09:00",
  "items": [
   {
    "id": "e25038ed75b9",
@@ -87,6 +87,29 @@
    "posted": "2026-09-21"
   },
   {
+   "id": "efdfdd55d173",
+   "title": "[대학혁신과공유센터] 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-29"
+  },
+  {
+   "id": "9db73144d708",
+   "title": "[스타벅스 기프티콘 증정] 2026년 학생성공역량 및 학습경험 설문조사 안내(~10/7)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139863&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-29",
+   "due": "2026-10-07",
+   "dueText": "~10/7 마감 추정"
+  },
+  {
+   "id": "15486db54c41",
+   "title": "[인사캠 건강센터] 2026-2학기 금연상담교실 참가자 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139673&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-29"
+  },
+  {
    "id": "56ba6b217dee",
    "title": "★ 기프티콘 증정 | 대학 내 학부연구생(학부인턴)의 연구실 경험 및 진로 인식 설문조사 (~09. 30)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140165&article.offset=0&articleLimit=10",
@@ -103,15 +126,6 @@
    "posted": "2026-09-27"
   },
   {
-   "id": "9db73144d708",
-   "title": "[스타벅스 기프티콘 증정] 2026년 학생성공역량 및 학습경험 설문조사 안내(~10/7)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139863&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-26",
-   "due": "2026-10-07",
-   "dueText": "~10/7 마감 추정"
-  },
-  {
    "id": "929a9a6c69b2",
    "title": "[앵커사업단] 제2회 Global Livinglab : AI × Traffic System 참가팀 모집(~9/27, 우수팀 태국탐방)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139686&article.offset=0&articleLimit=10",
@@ -119,13 +133,6 @@
    "posted": "2026-09-25",
    "due": "2026-09-27",
    "dueText": "~9/27 마감 추정"
-  },
-  {
-   "id": "efdfdd55d173",
-   "title": "[대학혁신과공유센터] 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-24"
   },
   {
    "id": "acb4547d79f3",
@@ -154,13 +161,6 @@
    "id": "d178f7ff572a",
    "title": "[뇌과학이미징연구단] (fMRI) 이야기/사건 실험 참여자 모집",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=137181&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-23"
-  },
-  {
-   "id": "b42e70217579",
-   "title": "[카운슬링센터] 자과캠 웰니스데이 행사 아르바이트 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140148&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-09-23"
   },
@@ -250,6 +250,13 @@
    "posted": "2026-09-21"
   },
   {
+   "id": "9036e37655d7",
+   "title": "2026학년도 벽송회장학금 장학생 선발안내( ~ 2026년 10월 9일(금) 오후 5시까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140127&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-09-29"
+  },
+  {
    "id": "29ba79a401fb",
    "title": "북경대 Yenching Academy 2-Year Master's Program in China Studies 모집 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140143&article.offset=0&articleLimit=10",
@@ -262,13 +269,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140142&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-09-23"
-  },
-  {
-   "id": "9036e37655d7",
-   "title": "2026학년도 벽송회장학금 장학생 선발안내( ~ 2026년 10월 9일(금) 오후 5시까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140127&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-09-22"
   },
   {
    "id": "b1982c279aee",
