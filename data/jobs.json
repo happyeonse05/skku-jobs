@@ -1,6 +1,13 @@
 {
- "updated": "2026-09-29T16:44:39+09:00",
+ "updated": "2026-09-30T09:04:17+09:00",
  "items": [
+  {
+   "id": "fb887e97ea3e",
+   "title": "[모집] 발목 재활 운동 프로그램 참여자 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140210&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-29"
+  },
   {
    "id": "bfda5478fa18",
    "title": "[기초과학연구소] 대체근무자 채용 공고(채용 시 마감)",
@@ -129,6 +136,15 @@
    "posted": "2026-09-21"
   },
   {
+   "id": "56ba6b217dee",
+   "title": "★ 기프티콘 증정 | 대학 내 학부연구생(학부인턴)의 연구실 경험 및 진로 인식 설문조사 (~09. 30)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140165&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-29",
+   "due": "2026-09-30",
+   "dueText": "~09. 30 마감 추정"
+  },
+  {
    "id": "efdfdd55d173",
    "title": "[대학혁신과공유센터] 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
@@ -182,15 +198,6 @@
    "posted": "2026-09-29"
   },
   {
-   "id": "56ba6b217dee",
-   "title": "★ 기프티콘 증정 | 대학 내 학부연구생(학부인턴)의 연구실 경험 및 진로 인식 설문조사 (~09. 30)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140165&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-29",
-   "due": "2026-09-30",
-   "dueText": "~09. 30 마감 추정"
-  },
-  {
    "id": "99a9afbaed29",
    "title": "[모집] [자과캠] 박사후연구원/석박사과정생/학부연구생 모집 :: 유기 반도체 연구실(강보석 교수)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=106134&article.offset=0&articleLimit=10",
@@ -205,6 +212,13 @@
    "posted": "2026-09-25",
    "due": "2026-09-27",
    "dueText": "~9/27 마감 추정"
+  },
+  {
+   "id": "4ffe45834c38",
+   "title": "[모집] 발목 재활 운동 프로그램 참여자 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140210&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-09-29"
   },
   {
    "id": "6c3a2861b85f",
