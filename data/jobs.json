@@ -1,6 +1,27 @@
 {
- "updated": "2026-09-30T16:47:58+09:00",
+ "updated": "2026-10-01T09:21:29+09:00",
  "items": [
+  {
+   "id": "4d3cc0110a58",
+   "title": "사회과학대학 제40회 수선포럼 개최 안내: 2026.10.21.(수) 11:30~13:00",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140251&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-21"
+  },
+  {
+   "id": "a0c659bc199e",
+   "title": "[산업전자응용연구소]비전임교원(연구교수) 채용",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140244&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-30"
+  },
+  {
+   "id": "5aae177dd09f",
+   "title": "[학생성공센터] 2026 학생성공 교수멘토링: 교수님과 나누는 진로, 학업 그리고 인생 이야기",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140240&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-30"
+  },
   {
    "id": "964a56dc8e90",
    "title": "[인공지능혁신융합대학사업단] 2026 인공지능혁신융합대학사업단 호주 UTAS 해외교육 모집 안내",
@@ -12,15 +33,6 @@
    "id": "eaba812ee4f5",
    "title": "[3D융합산업협회] 현대자동차와 함께하는 직무설명회 개최 안내(사전신청: ~10/7(수)까지)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140235&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-30",
-   "due": "2026-10-07",
-   "dueText": "~10/7 마감 추정"
-  },
-  {
-   "id": "dfa66460c1ae",
-   "title": "정보통신대학 BK214 교육연구단 행정직원 모집(~10/7)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140232&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-09-30",
    "due": "2026-10-07",
@@ -161,11 +173,48 @@
    "dueText": "~10/23 마감 추정"
   },
   {
-   "id": "8298734abc18",
-   "title": "[기숙사]2026학년도 2학기 명륜학사 공석(남학생) 모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139416&article.offset=0&articleLimit=10",
+   "id": "474c971ab6f4",
+   "title": "2027학년도 의과대학 전임교원(임상) 공개채용 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140257&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
-   "posted": "2026-09-21"
+   "posted": "2026-10-01"
+  },
+  {
+   "id": "efdfdd55d173",
+   "title": "[대학혁신과공유센터] 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-01"
+  },
+  {
+   "id": "acb4547d79f3",
+   "title": "[연장공지] 사회과학대학 행정조교(휴먼사이언스사회융합전공) 모집[~10.12.(월) 16:00까지, 조기채용시 마감 예정]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139593&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-30",
+   "due": "2026-10-12",
+   "dueText": "~10.12 마감 추정"
+  },
+  {
+   "id": "36aab42b0c17",
+   "title": "통증 예측과 뇌 반응 연구 참여자 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140246&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-30"
+  },
+  {
+   "id": "0ed76c86185e",
+   "title": "새로운 백년의 시작 2026 아리랑 행사 자원봉사자 모집 (10/1)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140245&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-30"
+  },
+  {
+   "id": "79ae8e9e7c9e",
+   "title": "정보통신대학 BK214 교육연구단 행정직원 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140243&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-09-30"
   },
   {
    "id": "7f3d8abbe411",
@@ -196,50 +245,25 @@
    "posted": "2026-09-30"
   },
   {
-   "id": "15486db54c41",
-   "title": "[인사캠 건강센터] 2026-2학기 금연상담교실 참가자 모집(10월 13일 오후 2시까지 선착순 접수)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139673&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
+   "id": "761e6ffb5530",
+   "title": "사회과학대학 제40회 수선포럼 개최 안내: 2026.10.21.(수) 11:30~13:00",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140251&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-21"
+  },
+  {
+   "id": "9524fcfcee84",
+   "title": "[산업전자응용연구소]비전임교원(연구교수) 채용",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140244&article.offset=0&articleLimit=10",
+   "writer": "장학",
    "posted": "2026-09-30"
   },
   {
-   "id": "efdfdd55d173",
-   "title": "[대학혁신과공유센터] 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
+   "id": "93a9bb4d144e",
+   "title": "[학생성공센터] 2026 학생성공 교수멘토링: 교수님과 나누는 진로, 학업 그리고 인생 이야기",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140240&article.offset=0&articleLimit=10",
+   "writer": "장학",
    "posted": "2026-09-30"
-  },
-  {
-   "id": "56ba6b217dee",
-   "title": "★ 기프티콘 증정 | 대학 내 학부연구생(학부인턴)의 연구실 경험 및 진로 인식 설문조사 (~09. 30)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140165&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-29",
-   "due": "2026-09-30",
-   "dueText": "~09. 30 마감 추정"
-  },
-  {
-   "id": "9db73144d708",
-   "title": "[스타벅스 기프티콘 증정] 2026년 학생성공역량 및 학습경험 설문조사 안내(~10/7)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139863&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-29",
-   "due": "2026-10-07",
-   "dueText": "~10/7 마감 추정"
-  },
-  {
-   "id": "f6b967cbb138",
-   "title": "2026년 후반기 학군사관(ROTC) 모집안내 (1,2학년 대상)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139283&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-29"
-  },
-  {
-   "id": "0dc703a599e1",
-   "title": "[KUSF 두드림] 스포츠단 검도부 재능 기부 프로그램 참여자 모집 (창의품 16시간 지급)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140200&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-09-29"
   },
   {
    "id": "100bab8dd371",
@@ -252,15 +276,6 @@
    "id": "fc4dfbc886f0",
    "title": "[3D융합산업협회] 현대자동차와 함께하는 직무설명회 개최 안내(사전신청: ~10/7(수)까지)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140235&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-09-30",
-   "due": "2026-10-07",
-   "dueText": "~10/7 마감 추정"
-  },
-  {
-   "id": "435fdc2f0bab",
-   "title": "정보통신대학 BK214 교육연구단 행정직원 모집(~10/7)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140232&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-09-30",
    "due": "2026-10-07",
@@ -401,13 +416,6 @@
    "dueText": "~10/23 마감 추정"
   },
   {
-   "id": "738e6aba4654",
-   "title": "[기숙사]2026학년도 2학기 명륜학사 공석(남학생) 모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=139416&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-09-21"
-  },
-  {
    "id": "4e8d50f5fdec",
    "title": "2026년도 2학기 논산시장학회 학업장려 장학생 선발 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140196&article.offset=0&articleLimit=10",
@@ -434,20 +442,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140142&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-09-23"
-  },
-  {
-   "id": "b1982c279aee",
-   "title": "(대학원) 2026년 하반기 일운과학기술재단 장학생 선발 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140108&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-09-22"
-  },
-  {
-   "id": "41af19c115b9",
-   "title": "2026년 하반기 (재)춘천시민장학재단 봄내장학생 선발안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140039&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-09-18"
   }
  ]
 }
