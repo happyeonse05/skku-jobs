@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T16:49:08+09:00",
+ "updated": "2026-10-03T09:10:03+09:00",
  "items": [
   {
    "id": "99c55d7b4b7c",
@@ -19,6 +19,22 @@
    "id": "1adbb5a30bd9",
    "title": "[앵커사업단] 2026 랜선으로 만나는 릴레이 글로벌 취·창업 톡톡톡(talk) 특강 신청 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140156&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-02"
+  },
+  {
+   "id": "3bf28ad1a0a6",
+   "title": "법학전문대학원 행정조교 모집 안내(~10.14.(수))",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140301&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-02",
+   "due": "2026-10-14",
+   "dueText": "~10.14 마감 추정"
+  },
+  {
+   "id": "94aa003dae02",
+   "title": "사학과 4단계 BK21 행정실무자 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140332&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-02"
   },
@@ -79,20 +95,6 @@
    "posted": "2026-10-02",
    "due": "2026-10-07",
    "dueText": "~10/7 마감 추정"
-  },
-  {
-   "id": "964a56dc8e90",
-   "title": "[인공지능혁신융합대학사업단] 2026 인공지능혁신융합대학사업단 호주 UTAS 해외교육 모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140238&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-02"
-  },
-  {
-   "id": "a0c659bc199e",
-   "title": "[산업전자응용연구소]비전임교원(연구교수) 채용",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140244&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-02"
   },
   {
    "id": "07e98706c82f",
