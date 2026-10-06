@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-05T17:03:37+09:00",
+ "updated": "2026-10-06T10:40:00+09:00",
  "items": [
+  {
+   "id": "8f092d55b88c",
+   "title": "[학생인재개발팀] 성균관대학교 학생인재개발팀(수원, 자연과학캠퍼스) 자체계약직 채용",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140345&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-06"
+  },
+  {
+   "id": "62e26672bcf8",
+   "title": "[학부대학/사범대학행정실][인사캠] 교내 근로학생 모집(10.11.(일)까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140344&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-06"
+  },
+  {
+   "id": "52101b0faff3",
+   "title": "[스포츠재활 연구실] 만성 발목 불안정성 대상 발목 재활운동 연구 참여자 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140343&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-05"
+  },
   {
    "id": "99c55d7b4b7c",
    "title": "[(주)소노케어랩] 의료기기 하드웨어 개발 담당자 채용 공고",
@@ -21,6 +42,38 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140156&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-02"
+  },
+  {
+   "id": "ae24bc57876e",
+   "title": "성균관대 정보통신대학 학사행정업무 담당 행정직원 모집[~10/12(월)]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140348&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-06",
+   "due": "2026-10-12",
+   "dueText": "~10/12 마감 추정"
+  },
+  {
+   "id": "9db73144d708",
+   "title": "[스타벅스 기프티콘 증정] 2026년 학생성공역량 및 학습경험 설문조사 안내(~10/7)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139863&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-06",
+   "due": "2026-10-07",
+   "dueText": "~10/7 마감 추정"
+  },
+  {
+   "id": "efdfdd55d173",
+   "title": "[대학혁신과공유센터] 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-06"
+  },
+  {
+   "id": "15486db54c41",
+   "title": "[인사캠 건강센터] 2026-2학기 금연상담교실 참가자 모집(10월 13일 오후 2시까지 접수)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139673&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-06"
   },
   {
    "id": "3bf28ad1a0a6",
@@ -46,13 +99,6 @@
    "posted": "2026-10-02"
   },
   {
-   "id": "efdfdd55d173",
-   "title": "[대학혁신과공유센터] 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-02"
-  },
-  {
    "id": "2fbe81f482fa",
    "title": "디지털교육혁신원 교육혁신팀 자체계약직원(PD 및 디자이너) 채용 공고",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140310&article.offset=0&articleLimit=10",
@@ -74,27 +120,25 @@
    "posted": "2026-10-02"
   },
   {
-   "id": "bfda5478fa18",
-   "title": "[기초과학연구소] 대체근무자 채용 공고(채용 시 마감)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140203&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-02"
+   "id": "54fc5b148c48",
+   "title": "[학생인재개발팀] 성균관대학교 학생인재개발팀(수원, 자연과학캠퍼스) 자체계약직 채용",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140345&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-06"
   },
   {
-   "id": "fb887e97ea3e",
-   "title": "[모집] 발목 재활 운동 프로그램 참여자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140210&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-02"
+   "id": "191d30ffcf07",
+   "title": "[학부대학/사범대학행정실][인사캠] 교내 근로학생 모집(10.11.(일)까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140344&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-06"
   },
   {
-   "id": "eaba812ee4f5",
-   "title": "[3D융합산업협회] 현대자동차와 함께하는 직무설명회 개최 안내(사전신청: ~10/7(수)까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140235&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-02",
-   "due": "2026-10-07",
-   "dueText": "~10/7 마감 추정"
+   "id": "7432b3869879",
+   "title": "[스포츠재활 연구실] 만성 발목 불안정성 대상 발목 재활운동 연구 참여자 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140343&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-05"
   },
   {
    "id": "07e98706c82f",
