@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-06T10:40:00+09:00",
+ "updated": "2026-10-06T17:25:07+09:00",
  "items": [
+  {
+   "id": "2f8994a3bdd5",
+   "title": "2026 하반기 교직원(정규직) 신규채용 서류전형 결과 및 필기전형 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140376&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-06"
+  },
+  {
+   "id": "c4b070468dea",
+   "title": "정보통신대학 전자전기공학부 행정직원(연구원) 모집_(~10/12(월))",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140367&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-06",
+   "due": "2026-10-12",
+   "dueText": "~10/12 마감 추정"
+  },
+  {
+   "id": "d62b152f67c6",
+   "title": "[학군단] `26.10.7.(수) 오후 1시 30분 학군단 비전 토크 콘서트 + 육군사관학교 군악대 공연 초대합니다.",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140353&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-06"
+  },
+  {
+   "id": "d1eeeecc1e26",
+   "title": "성균관대학교 학생성공센터행정실 촉탁직원 채용 공고",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140352&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-06"
+  },
   {
    "id": "8f092d55b88c",
    "title": "[학생인재개발팀] 성균관대학교 학생인재개발팀(수원, 자연과학캠퍼스) 자체계약직 채용",
@@ -41,16 +71,28 @@
    "title": "[앵커사업단] 2026 랜선으로 만나는 릴레이 글로벌 취·창업 톡톡톡(talk) 특강 신청 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140156&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
-   "posted": "2026-10-02"
+   "posted": "2026-10-06"
   },
   {
-   "id": "ae24bc57876e",
-   "title": "성균관대 정보통신대학 학사행정업무 담당 행정직원 모집[~10/12(월)]",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140348&article.offset=0&articleLimit=10",
+   "id": "da52dea6d0e2",
+   "title": "성균관대학교 전자전기공학부 자체계약직원 채용 (10.12.(월) 오후 12시까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140036&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
-   "posted": "2026-10-06",
-   "due": "2026-10-12",
-   "dueText": "~10/12 마감 추정"
+   "posted": "2026-10-06"
+  },
+  {
+   "id": "4aecdac6d8e1",
+   "title": "[AI반도체혁신연구소] 성균관대학교 AI반도체혁신연구소 행정직원 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140375&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-06"
+  },
+  {
+   "id": "efdfdd55d173",
+   "title": "[대학혁신과공유센터] 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-06"
   },
   {
    "id": "9db73144d708",
@@ -62,9 +104,9 @@
    "dueText": "~10/7 마감 추정"
   },
   {
-   "id": "efdfdd55d173",
-   "title": "[대학혁신과공유센터] 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
+   "id": "a8a4bb38cf80",
+   "title": "[KUSF 두드림] 스포츠단 야구부 재능 기부 프로그램 참여자 모집 (창의품 12시간 지급)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140370&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-06"
   },
@@ -80,44 +122,62 @@
    "title": "법학전문대학원 행정조교 모집 안내(~10.14.(수))",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140301&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
-   "posted": "2026-10-02",
+   "posted": "2026-10-06",
    "due": "2026-10-14",
    "dueText": "~10.14 마감 추정"
+  },
+  {
+   "id": "9098f1ce9932",
+   "title": "통증 예측과 뇌 반응 연구 참여자 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140354&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-06"
   },
   {
    "id": "94aa003dae02",
    "title": "사학과 4단계 BK21 행정실무자 모집",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140332&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
-   "posted": "2026-10-02"
+   "posted": "2026-10-06"
   },
   {
-   "id": "0fefb2b7f3dd",
-   "title": "[메타버스기반방사선안전ICT연구센터] 행정 업무 계약직 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140323&article.offset=0&articleLimit=10",
+   "id": "ae24bc57876e",
+   "title": "성균관대 정보통신대학 학사행정업무 담당 행정직원 모집[~10/12(월)]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140348&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
-   "posted": "2026-10-02"
+   "posted": "2026-10-06",
+   "due": "2026-10-12",
+   "dueText": "~10/12 마감 추정"
   },
   {
-   "id": "2fbe81f482fa",
-   "title": "디지털교육혁신원 교육혁신팀 자체계약직원(PD 및 디자이너) 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140310&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-02"
+   "id": "ea2e76487416",
+   "title": "2026 하반기 교직원(정규직) 신규채용 서류전형 결과 및 필기전형 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140376&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-06"
   },
   {
-   "id": "e25038ed75b9",
-   "title": "성균관대학교 경기도 중장년 일자리 캠퍼스 행정 전담 인력 채용",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140179&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-02"
+   "id": "88169869a5fc",
+   "title": "정보통신대학 전자전기공학부 행정직원(연구원) 모집_(~10/12(월))",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140367&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-06",
+   "due": "2026-10-12",
+   "dueText": "~10/12 마감 추정"
   },
   {
-   "id": "468d9de90c2d",
-   "title": "[인공지능혁신융합대학사업단] 2026년 10월 전문가 특강 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140164&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-02"
+   "id": "a522c4a10bb3",
+   "title": "[학군단] `26.10.7.(수) 오후 1시 30분 학군단 비전 토크 콘서트 + 육군사관학교 군악대 공연 초대합니다.",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140353&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-06"
+  },
+  {
+   "id": "b63663749b78",
+   "title": "성균관대학교 학생성공센터행정실 촉탁직원 채용 공고",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140352&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-06"
   },
   {
    "id": "54fc5b148c48",
@@ -159,7 +219,37 @@
    "title": "[앵커사업단] 2026 랜선으로 만나는 릴레이 글로벌 취·창업 톡톡톡(talk) 특강 신청 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140156&article.offset=0&articleLimit=10",
    "writer": "장학",
-   "posted": "2026-10-02"
+   "posted": "2026-10-06"
+  },
+  {
+   "id": "a5df0ff6abd3",
+   "title": "2027년도 해동과학문화재단 해동장학생 선발 안내(공학계열 학부생, ~ 10.28(수) 09:00까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140368&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-06",
+   "due": "2026-10-28",
+   "dueText": "~ 10.28 마감 추정"
+  },
+  {
+   "id": "706a722204dd",
+   "title": "2027년 아산사회복지재단 의생명과학분야 대학 장학생 선발 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140365&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-06"
+  },
+  {
+   "id": "07cbee66befa",
+   "title": "2027학년도 아산사회복지재단 북한이탈청소년장학생 선발 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140363&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-06"
+  },
+  {
+   "id": "b4eb1ec89890",
+   "title": "2027년 대산농촌재단 장학생 선발 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140362&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-06"
   },
   {
    "id": "231ef154b40b",
@@ -204,34 +294,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140261&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-01"
-  },
-  {
-   "id": "4e8d50f5fdec",
-   "title": "2026년도 2학기 논산시장학회 학업장려 장학생 선발 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140196&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-09-29"
-  },
-  {
-   "id": "9036e37655d7",
-   "title": "2026학년도 벽송회장학금 장학생 선발안내( ~ 2026년 10월 9일(금) 오후 5시까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140127&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-09-29"
-  },
-  {
-   "id": "29ba79a401fb",
-   "title": "북경대 Yenching Academy 2-Year Master's Program in China Studies 모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140143&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-09-23"
-  },
-  {
-   "id": "ea6a9e6ed33a",
-   "title": "영국 옥스퍼드대학 Ellison Institute of Technology (EIT) Graduate Scholarships 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140142&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-09-23"
   }
  ]
 }
