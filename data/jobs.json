@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-07T09:21:45+09:00",
+ "updated": "2026-10-07T17:00:49+09:00",
  "items": [
+  {
+   "id": "2ebd7b901d0b",
+   "title": "[성균관대학교]2026 청년도약 인재양성 부트캠프 교육생 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140417&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-07"
+  },
+  {
+   "id": "9bc135a5ace0",
+   "title": "스웨덴 왕립과학한림원 원장 특별 강연 안내 (10/30(금) 14:00)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140407&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-07"
+  },
+  {
+   "id": "bc314a59aaba",
+   "title": "[채용공고] 인공지능 플러스 K건설인프라 레질리언스 연구센터(ERC) 행정직원 모집(~10/13(화))",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140399&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-07",
+   "due": "2026-10-13",
+   "dueText": "~10/13 마감 추정"
+  },
   {
    "id": "2f8994a3bdd5",
    "title": "2026 하반기 교직원(정규직) 신규채용 서류전형 결과 및 필기전형 안내",
@@ -74,6 +97,57 @@
    "posted": "2026-10-06"
   },
   {
+   "id": "bc909eac64e6",
+   "title": "[실험 참가자 모집 공고]AI 면접 환경에 따른 지원자의 인식과 경험에 관한 연구",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140423&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-07"
+  },
+  {
+   "id": "0daac7ff9978",
+   "title": "성균관대학교 사범대학 학부대학/사범대학행정실 행정조교 모집(~10/14까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140410&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-07",
+   "due": "2026-10-14",
+   "dueText": "~10/14 마감 추정"
+  },
+  {
+   "id": "797fa8d383b6",
+   "title": "성균관대학교 공과대학 자체계약직원 채용(~2026.10.13.(화) 오전 11시)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140404&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-13"
+  },
+  {
+   "id": "16c4d716e15d",
+   "title": "[KUSF 두드림] 스포츠단 농구부 재능 기부 프로그램 참여자 모집 (창의품 10시간 지급)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140402&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-07"
+  },
+  {
+   "id": "fcd13cdace05",
+   "title": "성균관대학교 공과대학 행정조교 채용(~2026.10.13.(화) 오전 11시)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140401&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-13"
+  },
+  {
+   "id": "5ed5134f517f",
+   "title": "「제13회 대학생 물환경 정책·기술 공모전」 개최 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140400&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-07"
+  },
+  {
+   "id": "e34f583ca94e",
+   "title": "2027 전국 대학생 자작 미래자동차 경진대회 개최 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140392&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-07"
+  },
+  {
    "id": "efdfdd55d173",
    "title": "[대학혁신과공유센터] 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
@@ -99,55 +173,27 @@
    "dueText": "~10.12 마감 추정"
   },
   {
-   "id": "da52dea6d0e2",
-   "title": "성균관대학교 전자전기공학부 자체계약직원 채용 (10.12.(월) 오후 12시까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140036&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-06"
+   "id": "33a5e48815f5",
+   "title": "[성균관대학교]2026 청년도약 인재양성 부트캠프 교육생 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140417&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-07"
   },
   {
-   "id": "4aecdac6d8e1",
-   "title": "[AI반도체혁신연구소] 성균관대학교 AI반도체혁신연구소 행정직원 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140375&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-06"
+   "id": "645c5f60042d",
+   "title": "스웨덴 왕립과학한림원 원장 특별 강연 안내 (10/30(금) 14:00)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140407&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-07"
   },
   {
-   "id": "a8a4bb38cf80",
-   "title": "[KUSF 두드림] 스포츠단 야구부 재능 기부 프로그램 참여자 모집 (창의품 12시간 지급)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140370&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-06"
-  },
-  {
-   "id": "15486db54c41",
-   "title": "[인사캠 건강센터] 2026-2학기 금연상담교실 참가자 모집(10월 13일 오후 2시까지 접수)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139673&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-06"
-  },
-  {
-   "id": "3bf28ad1a0a6",
-   "title": "법학전문대학원 행정조교 모집 안내(~10.14.(수))",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140301&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-06",
-   "due": "2026-10-14",
-   "dueText": "~10.14 마감 추정"
-  },
-  {
-   "id": "9098f1ce9932",
-   "title": "통증 예측과 뇌 반응 연구 참여자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140354&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-06"
-  },
-  {
-   "id": "94aa003dae02",
-   "title": "사학과 4단계 BK21 행정실무자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140332&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-06"
+   "id": "937da9668379",
+   "title": "[채용공고] 인공지능 플러스 K건설인프라 레질리언스 연구센터(ERC) 행정직원 모집(~10/13(화))",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140399&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-07",
+   "due": "2026-10-13",
+   "dueText": "~10/13 마감 추정"
   },
   {
    "id": "ea2e76487416",
