@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-08T09:43:03+09:00",
+ "updated": "2026-10-08T17:15:04+09:00",
  "items": [
+  {
+   "id": "f6e887abfed5",
+   "title": "[대학혁신과공유센터] 인텐시브 워크숍 <바이브코딩으로 게임 만들기(with NC AI)> 참가 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140460&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-08"
+  },
+  {
+   "id": "8217fb2806ca",
+   "title": "(연장)[창업지원단/실험실창업혁신단] 2026 SKKU 프리 텍스코어(10/13~14) 참가자 모집(라마다 호텔 수원, 총상금 350만원)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140438&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-08"
+  },
   {
    "id": "770c5a485859",
    "title": "[인공지능혁신융합대학사업단] 2026 구름톤 아레나 참가자 모집 안내(참가비 전액 지원)",
@@ -111,11 +125,41 @@
    "posted": "2026-10-07"
   },
   {
+   "id": "efdfdd55d173",
+   "title": "[대학혁신과공유센터] 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-08"
+  },
+  {
    "id": "1adbb5a30bd9",
    "title": "[앵커사업단] 2026 랜선으로 만나는 릴레이 글로벌 취·창업 톡톡톡(talk) 특강 신청 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140156&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-06"
+  },
+  {
+   "id": "9db73144d708",
+   "title": "[스타벅스 기프티콘 증정] 2026년 학생성공역량 및 학습경험 설문조사 안내(연장, ~10/14)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139863&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-08",
+   "due": "2026-10-14",
+   "dueText": "~10/14 마감 추정"
+  },
+  {
+   "id": "bb0a5cd38699",
+   "title": "대학원혁신센터 촉탁직원 채용 공고(BK대학원혁신사업)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140468&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-08"
+  },
+  {
+   "id": "8e4377e62e3e",
+   "title": "성균관대학교 문화예술미디어융합원 촉탁직원(연구원) 채용 공고",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140466&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-08"
   },
   {
    "id": "019ab7e0deec",
@@ -169,22 +213,6 @@
    "posted": "2026-10-07"
   },
   {
-   "id": "efdfdd55d173",
-   "title": "[대학혁신과공유센터] 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-07"
-  },
-  {
-   "id": "9db73144d708",
-   "title": "[스타벅스 기프티콘 증정] 2026년 학생성공역량 및 학습경험 설문조사 안내(~10/7)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139863&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-07",
-   "due": "2026-10-07",
-   "dueText": "~10/7 마감 추정"
-  },
-  {
    "id": "acb4547d79f3",
    "title": "[연장공지] 사회과학대학 행정조교(휴먼사이언스사회융합전공) 모집[~10.12.(월) 16:00까지, 조기채용시 마감 예정]",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139593&article.offset=0&articleLimit=10",
@@ -192,6 +220,20 @@
    "posted": "2026-10-06",
    "due": "2026-10-12",
    "dueText": "~10.12 마감 추정"
+  },
+  {
+   "id": "af5078fca4ab",
+   "title": "[대학혁신과공유센터] 인텐시브 워크숍 <바이브코딩으로 게임 만들기(with NC AI)> 참가 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140460&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-08"
+  },
+  {
+   "id": "b807bd0a854c",
+   "title": "(연장)[창업지원단/실험실창업혁신단] 2026 SKKU 프리 텍스코어(10/13~14) 참가자 모집(라마다 호텔 수원, 총상금 350만원)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140438&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-08"
   },
   {
    "id": "37689287a0bb",
@@ -303,11 +345,27 @@
    "posted": "2026-10-07"
   },
   {
+   "id": "f2579db2a4f0",
+   "title": "[대학혁신과공유센터] 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-08"
+  },
+  {
    "id": "06490f49c0ff",
    "title": "[앵커사업단] 2026 랜선으로 만나는 릴레이 글로벌 취·창업 톡톡톡(talk) 특강 신청 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140156&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-06"
+  },
+  {
+   "id": "2d888717671d",
+   "title": "[스타벅스 기프티콘 증정] 2026년 학생성공역량 및 학습경험 설문조사 안내(연장, ~10/14)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=139863&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-08",
+   "due": "2026-10-14",
+   "dueText": "~10/14 마감 추정"
   },
   {
    "id": "a5df0ff6abd3",
