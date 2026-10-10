@@ -1,6 +1,13 @@
 {
- "updated": "2026-10-10T09:29:34+09:00",
+ "updated": "2026-10-10T16:58:08+09:00",
  "items": [
+  {
+   "id": "443267513243",
+   "title": "[성균관대학교 청정에너지ICT연구소] 이공계열 석사졸업이상 연구원 모집(1명)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140472&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-10"
+  },
   {
    "id": "f6e887abfed5",
    "title": "[대학혁신과공유센터] 인텐시브 워크숍 <바이브코딩으로 게임 만들기(with NC AI)> 참가 모집",
@@ -102,6 +109,13 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140326&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-02"
+  },
+  {
+   "id": "057a28f285a1",
+   "title": "[성균관대학교 청정에너지ICT연구소] 이공계열 박사 후 연구원 모집(2명 이상)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140291&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-10"
   },
   {
    "id": "964a56dc8e90",
@@ -222,6 +236,13 @@
    "dueText": "~10.12 마감 추정"
   },
   {
+   "id": "271b47ed995a",
+   "title": "[성균관대학교 청정에너지ICT연구소] 이공계열 석사졸업이상 연구원 모집(1명)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140472&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-10"
+  },
+  {
    "id": "af5078fca4ab",
    "title": "[대학혁신과공유센터] 인텐시브 워크숍 <바이브코딩으로 게임 만들기(with NC AI)> 참가 모집",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140460&article.offset=0&articleLimit=10",
@@ -324,6 +345,13 @@
    "posted": "2026-10-02"
   },
   {
+   "id": "aebd365ced17",
+   "title": "[성균관대학교 청정에너지ICT연구소] 이공계열 박사 후 연구원 모집(2명 이상)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140291&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-10"
+  },
+  {
    "id": "100bab8dd371",
    "title": "[인공지능혁신융합대학사업단] 2026 인공지능혁신융합대학사업단 호주 UTAS 해외교육 모집 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140238&article.offset=0&articleLimit=10",
@@ -412,34 +440,6 @@
    "posted": "2026-10-02",
    "due": "2026-10-13",
    "dueText": "~10.13 마감 추정"
-  },
-  {
-   "id": "0306c8f7423d",
-   "title": "2026년 우양재단 동행 장학생 선발안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140281&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-01"
-  },
-  {
-   "id": "5156897a6f24",
-   "title": "[공지] 장학생 추천서 총장 직인 날인 신청 안내 (GLS 신청)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=135615&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-01"
-  },
-  {
-   "id": "9a4775eb4d90",
-   "title": "2026년 2학기 송화재단 장학생 선발 안내(~2026.10.07 오후 1시까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140265&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-07"
-  },
-  {
-   "id": "282bf5a0b076",
-   "title": "[한국장학재단] 2026학년도 2학기 중소기업 취업연계(희망사다리1유형) 신규장학생 선발기준 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140261&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-01"
   }
  ]
 }
