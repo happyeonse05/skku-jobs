@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T16:58:08+09:00",
+ "updated": "2026-10-11T09:05:48+09:00",
  "items": [
   {
    "id": "443267513243",
@@ -88,13 +88,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140344&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-06"
-  },
-  {
-   "id": "52101b0faff3",
-   "title": "[스포츠재활 연구실] 만성 발목 불안정성 대상 발목 재활운동 연구 참여자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140343&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-05"
   },
   {
    "id": "99c55d7b4b7c",
@@ -324,13 +317,6 @@
    "posted": "2026-10-06"
   },
   {
-   "id": "7432b3869879",
-   "title": "[스포츠재활 연구실] 만성 발목 불안정성 대상 발목 재활운동 연구 참여자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140343&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-05"
-  },
-  {
    "id": "07e98706c82f",
    "title": "[(주)소노케어랩] 의료기기 하드웨어 개발 담당자 채용 공고",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140327&article.offset=0&articleLimit=10",
@@ -440,6 +426,20 @@
    "posted": "2026-10-02",
    "due": "2026-10-13",
    "dueText": "~10.13 마감 추정"
+  },
+  {
+   "id": "0306c8f7423d",
+   "title": "2026년 우양재단 동행 장학생 선발안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140281&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-01"
+  },
+  {
+   "id": "5156897a6f24",
+   "title": "[공지] 장학생 추천서 총장 직인 날인 신청 안내 (GLS 신청)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=135615&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-01"
   }
  ]
 }
