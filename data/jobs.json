@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-13T11:25:13+09:00",
+ "updated": "2026-10-13T17:48:26+09:00",
  "items": [
+  {
+   "id": "ba1d2a7dc4d4",
+   "title": "2026년 하반기 교직원(정규직) 경력채용 서류전형 결과 및 1차 면접전형 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140545&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-13"
+  },
+  {
+   "id": "7b9f129c773d",
+   "title": "2026년 졸업앨범 추가 촬영 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140544&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-13"
+  },
+  {
+   "id": "8371c29926cf",
+   "title": "2026년 성균관대학교 서베이리서치센터 통계 워크숍 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140536&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-13"
+  },
   {
    "id": "db18315c3912",
    "title": "[스포츠재활 연구실] 발목 운동재활 프로그램 연구 참여자 모집",
@@ -37,6 +58,38 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140478&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-13"
+  },
+  {
+   "id": "2fbe81f482fa",
+   "title": "디지털교육혁신원 교육혁신팀 자체계약직원(PD 및 디자이너) 채용 공고",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140310&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-13"
+  },
+  {
+   "id": "c0ea1a21c1e3",
+   "title": "[카운슬링센터] ✨가을맞이「관계 속 나 집단상담」참여자를 모집합니다! (인사캠)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140496&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-13"
+  },
+  {
+   "id": "b5a53bca2c3a",
+   "title": "[AI 부트캠프사업단 X 제네시스랩] 몰입형 교과목 3기 수강생 모집 (~10/19(월)마감) *선착순 진행",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140540&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-13",
+   "due": "2026-10-19",
+   "dueText": "~10/19 마감 추정"
+  },
+  {
+   "id": "09ababdce1b7",
+   "title": "사회과학/예술대학행정실 행정조교 모집[~10.19.(월) 16:00까지]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140537&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-13",
+   "due": "2026-10-19",
+   "dueText": "~10.19 마감 추정"
   },
   {
    "id": "bbc58dfc78a6",
@@ -90,25 +143,25 @@
    "posted": "2026-10-12"
   },
   {
-   "id": "f8f46a3d1042",
-   "title": "성균관대학교 소프트웨어융합대학 자체계약직원 채용(~2026.10.19.(월) 15시)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140509&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-19"
+   "id": "b6621c3d3db5",
+   "title": "2026년 하반기 교직원(정규직) 경력채용 서류전형 결과 및 1차 면접전형 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140545&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-13"
   },
   {
-   "id": "f6e887abfed5",
-   "title": "[대학혁신과공유센터] 인텐시브 워크숍 <바이브코딩으로 게임 만들기(with NC AI)> 참가 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140460&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-12"
+   "id": "ff25d287dae8",
+   "title": "2026년 졸업앨범 추가 촬영 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140544&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-13"
   },
   {
-   "id": "efdfdd55d173",
-   "title": "[모집 연장] [대학혁신과공유센터] SKKU X 종로구 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-12"
+   "id": "fa003c346639",
+   "title": "2026년 성균관대학교 서베이리서치센터 통계 워크숍 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140536&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-13"
   },
   {
    "id": "873097b45b92",
@@ -148,6 +201,31 @@
    "posted": "2026-10-13"
   },
   {
+   "id": "a2fa002a71f5",
+   "title": "디지털교육혁신원 교육혁신팀 자체계약직원(PD 및 디자이너) 채용 공고",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140310&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-13"
+  },
+  {
+   "id": "7d12f971cdd3",
+   "title": "2026년 성암육영회 장학생 선발안내(10.14(수)~10.19(월) 09:00까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140538&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-13",
+   "due": "2026-10-19",
+   "dueText": "~10.19 마감 추정"
+  },
+  {
+   "id": "a5df0ff6abd3",
+   "title": "2027년도 해동과학문화재단 해동장학생 선발 안내(공학계열 학부생, ~ 10.28(수) 09:00까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140368&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-13",
+   "due": "2026-10-28",
+   "dueText": "~ 10.28 마감 추정"
+  },
+  {
    "id": "c040a5c711a0",
    "title": "2027년도 STX장학재단 장학생 선발 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140524&article.offset=0&articleLimit=10",
@@ -167,15 +245,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140479&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-12"
-  },
-  {
-   "id": "a5df0ff6abd3",
-   "title": "2027년도 해동과학문화재단 해동장학생 선발 안내(공학계열 학부생, ~ 10.28(수) 09:00까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140368&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-06",
-   "due": "2026-10-28",
-   "dueText": "~ 10.28 마감 추정"
   },
   {
    "id": "706a722204dd",
@@ -213,13 +282,6 @@
    "posted": "2026-10-02",
    "due": "2026-10-13",
    "dueText": "~10.13 마감 추정"
-  },
-  {
-   "id": "0306c8f7423d",
-   "title": "2026년 우양재단 동행 장학생 선발안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140281&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-01"
   }
  ]
 }
