@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T17:48:26+09:00",
+ "updated": "2026-10-14T09:09:02+09:00",
  "items": [
   {
    "id": "ba1d2a7dc4d4",
@@ -67,6 +67,15 @@
    "posted": "2026-10-13"
   },
   {
+   "id": "ae24bc57876e",
+   "title": "(기간연장)성균관대 정보통신대학 학사행정업무 담당 행정직원 모집[~10/19(월)]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140348&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-13",
+   "due": "2026-10-19",
+   "dueText": "~10/19 마감 추정"
+  },
+  {
    "id": "c0ea1a21c1e3",
    "title": "[카운슬링센터] ✨가을맞이「관계 속 나 집단상담」참여자를 모집합니다! (인사캠)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140496&article.offset=0&articleLimit=10",
@@ -132,13 +141,6 @@
    "id": "aa5477f71a2b",
    "title": "[네이버페이 1만원 증정, 온라인 실험 참여] AI 면접 환경에 따른 지원자의 인식과 경험에 관한 연구",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140512&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-12"
-  },
-  {
-   "id": "709986c0b14e",
-   "title": "[한국문화관광연구원] 문화·관광·콘텐츠 분야 대국민 연구 아이디어 공모",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140510&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-12"
   },
