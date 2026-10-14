@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-14T15:57:57+09:00",
+ "updated": "2026-10-15T08:41:48+09:00",
  "items": [
+  {
+   "id": "e407e5f9f485",
+   "title": "(2027년 1학기) CAMPUS Asia 중국파견 교환장학생 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140579&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-15"
+  },
+  {
+   "id": "d5c519392a20",
+   "title": "(2027년 1학기) CAMPUS Asia 일본파견 교환장학생 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140578&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-15"
+  },
+  {
+   "id": "09ababdce1b7",
+   "title": "사회과학/예술대학행정실 행정조교 모집[~10.19.(월) 16:00까지]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140537&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-14",
+   "due": "2026-10-19",
+   "dueText": "~10.19 마감 추정"
+  },
   {
    "id": "efdfdd55d173",
    "title": "[모집 연장] [대학혁신과공유센터] SKKU X 종로구 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
@@ -53,26 +76,10 @@
    "posted": "2026-10-14"
   },
   {
-   "id": "db18315c3912",
-   "title": "[스포츠재활 연구실] 발목 운동재활 프로그램 연구 참여자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140526&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-14"
-  },
-  {
-   "id": "52c4ea169ec4",
-   "title": "[인공지능 부트캠프] 2026학년도 2학기(1차) 인공지능 모델링/인공지능 하드웨어/인공지능 소프트웨어-하드웨어 융합 마이크로디그리 신청 안내 (10/19(월)~10/23(금))",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140507&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-14",
-   "due": "2026-10-23",
-   "dueText": "~10/23 마감 추정"
-  },
-  {
-   "id": "8f092d55b88c",
-   "title": "[학생인재개발팀] 성균관대학교 학생인재개발팀(수원, 자연과학캠퍼스) 자체계약직 채용",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140345&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
+   "id": "9b5b1ba2651d",
+   "title": "(대학원)2026년도 동진장학연구재단 동진장학금 선발 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140575&article.offset=0&articleLimit=10",
+   "writer": "장학",
    "posted": "2026-10-14"
   },
   {
@@ -141,13 +148,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140362&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-06"
-  },
-  {
-   "id": "231ef154b40b",
-   "title": "2026학년도 하나금융나눔재단 국내 하나장학생 모집 안내( ~2026년 10월 06일 (화) 오전 9시 까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140331&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-02"
   }
  ]
 }
