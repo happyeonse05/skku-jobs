@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-15T15:49:48+09:00",
+ "updated": "2026-10-16T08:32:43+09:00",
  "items": [
+  {
+   "id": "148c1c0477be",
+   "title": "삼성서울병원 암환자삶의질연구소 대학생/대학원생/대학교원 자원봉사 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140606&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-15"
+  },
+  {
+   "id": "bc26f49535db",
+   "title": "[채용/모집] 성균관대학교 배터리학과 행정직원 모집(~10/21 오전 11시까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140604&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-15",
+   "due": "2026-10-21",
+   "dueText": "~10/21 마감 추정"
+  },
   {
    "id": "b7389c4e6b03",
    "title": "[채용/모집] 성균관대학교 지능형정밀헬스케어교육연구단 연구교수 채용 공고",
@@ -76,30 +92,34 @@
    "dueText": "~10/14 마감 추정"
   },
   {
-   "id": "b2864ff59bff",
-   "title": "(한국국제협력단) 2026년 KOICA 해외봉사단 정기설명회 개최",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140573&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-14"
-  },
-  {
-   "id": "b07e7d3327da",
-   "title": "[제32회 외대부고캠프 대학생 멘토 모집 안내]",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140572&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-14"
-  },
-  {
-   "id": "389443c7c54e",
-   "title": "[채용/모집] 성균관대학교 지능형정밀헬스케어교육연구단 연구교수 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140595&article.offset=0&articleLimit=10",
+   "id": "da28e53f280f",
+   "title": "삼성서울병원 암환자삶의질연구소 대학생/대학원생/대학교원 자원봉사 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140606&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-15"
   },
   {
-   "id": "6c3a2861b85f",
-   "title": "[기초과학연구소] 연구행정원 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140203&article.offset=0&articleLimit=10",
+   "id": "675104c85c03",
+   "title": "[채용/모집] 성균관대학교 배터리학과 행정직원 모집(~10/21 오전 11시까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140604&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-15",
+   "due": "2026-10-21",
+   "dueText": "~10/21 마감 추정"
+  },
+  {
+   "id": "7d12f971cdd3",
+   "title": "2026년 성암육영회 장학생 선발안내(10.14(수)~10.19(월) 09:00까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140538&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-15",
+   "due": "2026-10-19",
+   "dueText": "~10.19 마감 추정"
+  },
+  {
+   "id": "eb3144b96a7e",
+   "title": "2026학년도 심산혁신장학금 장학생 선발안내( ~ 2026년 11월 6일(금) 오후 5시까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140601&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-15"
   },
@@ -134,15 +154,6 @@
    "posted": "2026-10-14"
   },
   {
-   "id": "7d12f971cdd3",
-   "title": "2026년 성암육영회 장학생 선발안내(10.14(수)~10.19(월) 09:00까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140538&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-14",
-   "due": "2026-10-19",
-   "dueText": "~10.19 마감 추정"
-  },
-  {
    "id": "c040a5c711a0",
    "title": "2027년도 STX장학재단 장학생 선발 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140524&article.offset=0&articleLimit=10",
@@ -167,13 +178,6 @@
    "id": "706a722204dd",
    "title": "2027년 아산사회복지재단 의생명과학분야 대학 장학생 선발 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140365&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-06"
-  },
-  {
-   "id": "07cbee66befa",
-   "title": "2027학년도 아산사회복지재단 북한이탈청소년장학생 선발 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140363&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-06"
   }
