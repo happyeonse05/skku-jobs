@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T15:37:54+09:00",
+ "updated": "2026-10-17T08:15:12+09:00",
  "items": [
   {
    "id": "148c1c0477be",
@@ -23,6 +23,22 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140563&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-16"
+  },
+  {
+   "id": "acb4547d79f3",
+   "title": "[연장공지] 사회과학대학 행정조교(휴먼사이언스사회융합전공) 모집 [채용시 마감 예정]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139593&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-16"
+  },
+  {
+   "id": "09ababdce1b7",
+   "title": "사회과학/예술대학행정실 행정조교 모집[~10.19.(월) 16:00까지]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140537&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-16",
+   "due": "2026-10-19",
+   "dueText": "~10.19 마감 추정"
   },
   {
    "id": "71480464c6e0",
@@ -77,20 +93,6 @@
    "id": "376b63ebfa0a",
    "title": "외국인유학생지원팀 촉탁직원 채용 공고",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140583&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-15"
-  },
-  {
-   "id": "e407e5f9f485",
-   "title": "(2027년 1학기) CAMPUS Asia 중국파견 교환장학생 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140579&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-15"
-  },
-  {
-   "id": "d5c519392a20",
-   "title": "(2027년 1학기) CAMPUS Asia 일본파견 교환장학생 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140578&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-15"
   },
