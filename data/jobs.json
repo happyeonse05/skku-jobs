@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-19T07:46:57+09:00",
+ "updated": "2026-10-19T16:11:09+09:00",
  "items": [
+  {
+   "id": "b89091503abf",
+   "title": "[공학교육혁신센터]공학교육인증(ABEEK) 자체계약 행정직원 모집(~11/1까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140633&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-19",
+   "due": "2026-11-01",
+   "dueText": "~11/1 마감 추정"
+  },
   {
    "id": "148c1c0477be",
    "title": "삼성서울병원 암환자삶의질연구소 대학생/대학원생/대학교원 자원봉사 모집",
@@ -25,6 +34,27 @@
    "posted": "2026-10-16"
   },
   {
+   "id": "3f61ba88aaac",
+   "title": "[채용/모집] (10/19-23) 2026 탄소중립건축 마이크로디그리 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140644&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-19"
+  },
+  {
+   "id": "f6e887abfed5",
+   "title": "[대학혁신과공유센터] 인텐시브 워크숍 <바이브코딩으로 게임 만들기(with NC AI)> 참가 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140460&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-19"
+  },
+  {
+   "id": "efdfdd55d173",
+   "title": "[모집 연장] [대학혁신과공유센터] SKKU X 종로구 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-19"
+  },
+  {
    "id": "acb4547d79f3",
    "title": "[연장공지] 사회과학대학 행정조교(휴먼사이언스사회융합전공) 모집 [채용시 마감 예정]",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139593&article.offset=0&articleLimit=10",
@@ -44,20 +74,6 @@
    "id": "71480464c6e0",
    "title": "[인사캠] 2026년 11월 체력증진센터(경영관, 600주년기념관) 회원모집 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140568&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-16"
-  },
-  {
-   "id": "f6e887abfed5",
-   "title": "[대학혁신과공유센터] 인텐시브 워크숍 <바이브코딩으로 게임 만들기(with NC AI)> 참가 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140460&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-16"
-  },
-  {
-   "id": "efdfdd55d173",
-   "title": "[모집 연장] [대학혁신과공유센터] SKKU X 종로구 2026학년도「탑골공원 학생 도슨트 프로그램」신청자 모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140163&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-16"
   },
@@ -90,11 +106,13 @@
    "posted": "2026-10-15"
   },
   {
-   "id": "376b63ebfa0a",
-   "title": "외국인유학생지원팀 촉탁직원 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140583&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-15"
+   "id": "d580c8199997",
+   "title": "[공학교육혁신센터]공학교육인증(ABEEK) 자체계약 행정직원 모집(~11/1까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140633&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-19",
+   "due": "2026-11-01",
+   "dueText": "~11/1 마감 추정"
   },
   {
    "id": "da28e53f280f",
@@ -120,6 +138,43 @@
    "posted": "2026-10-16"
   },
   {
+   "id": "7cfa3602d5be",
+   "title": "2026학년도 하반기 재단법인 인석장학회 장학생 선발 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140652&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-19"
+  },
+  {
+   "id": "a5df0ff6abd3",
+   "title": "2027년도 해동과학문화재단 해동장학생 선발 안내(공학계열 학부생, ~ 10.28(수) 09:00까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140368&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-19",
+   "due": "2026-10-28",
+   "dueText": "~ 10.28 마감 추정"
+  },
+  {
+   "id": "54f542936fff",
+   "title": "2026년도 2학기 안산인재육성재단 안산시 대학생 본인부담 등록금 반값지원 신청안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140647&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-19"
+  },
+  {
+   "id": "43d3029ff570",
+   "title": "2026년도 2학기 (재)거창군장학회 거창군 지역출신 대학생 등록금 지원 신청 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140646&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-19"
+  },
+  {
+   "id": "18f3d79c7f79",
+   "title": "2026년도 한국고등교육재단 인재림 제7기 장학생 선발 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140645&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-19"
+  },
+  {
    "id": "40ac520dfaa6",
    "title": "2026학년도 2학기 1차 연구우수장학생 선발 결과 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140628&article.offset=0&articleLimit=10",
@@ -143,15 +198,6 @@
    "posted": "2026-10-15"
   },
   {
-   "id": "a5df0ff6abd3",
-   "title": "2027년도 해동과학문화재단 해동장학생 선발 안내(공학계열 학부생, ~ 10.28(수) 09:00까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140368&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-15",
-   "due": "2026-10-28",
-   "dueText": "~ 10.28 마감 추정"
-  },
-  {
    "id": "9b5b1ba2651d",
    "title": "(대학원)2026년도 동진장학연구재단 동진장학금 선발 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140575&article.offset=0&articleLimit=10",
@@ -164,34 +210,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140581&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-15"
-  },
-  {
-   "id": "a9e81bfa6daf",
-   "title": "2027년도 두산연강재단 장학생 선발 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140562&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-14"
-  },
-  {
-   "id": "c040a5c711a0",
-   "title": "2027년도 STX장학재단 장학생 선발 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140524&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-13"
-  },
-  {
-   "id": "5156897a6f24",
-   "title": "[공지] 장학생 추천서 총장 직인 날인 신청 안내 (GLS 신청)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=135615&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-12"
-  },
-  {
-   "id": "f67151649ee0",
-   "title": "2026년도 하반기 은평구민장학재단 장학생 선발 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140479&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-12"
   }
  ]
 }
