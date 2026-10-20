@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-20T15:58:30+09:00",
+ "updated": "2026-10-21T08:37:45+09:00",
  "items": [
+  {
+   "id": "f159e0ec4095",
+   "title": "[모집] 발목 재활 운동 프로그램 참여자 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140691&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-20"
+  },
+  {
+   "id": "0978a6cdf459",
+   "title": "2026 하반기 교직원(정규직) 신규채용 필기전형 결과 및 1차 면접전형 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140689&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-20"
+  },
   {
    "id": "b2f7e29549bc",
    "title": "자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
@@ -11,8 +25,26 @@
    "dueText": "~12/18 마감 추정"
   },
   {
+   "id": "09ababdce1b7",
+   "title": "[연장공지] 사회과학/예술대학행정실 행정조교 모집[~10.22.(목) 16:00까지]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140537&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-20",
+   "due": "2026-10-22",
+   "dueText": "~10.22 마감 추정"
+  },
+  {
+   "id": "a20ec5e20b20",
+   "title": "성균관대 삼성SDI-SKKU 이차전지산학협력연구센터 행정 직원 모집 (~10/26 월 오전 11시)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140674&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-20",
+   "due": "2026-10-26",
+   "dueText": "~10/26 마감 추정"
+  },
+  {
    "id": "f6e887abfed5",
-   "title": "[대학혁신과공유센터] 인텐시브 워크숍 <바이브코딩으로 게임 만들기(with NC AI)> 참가 모집",
+   "title": "[대학혁신과공유센터] 인텐시브 워크숍 <바이브코딩으로 게임 만들기(with NC AI)> 참가 모집(모집 연장)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140460&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-20"
@@ -37,15 +69,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140675&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-20"
-  },
-  {
-   "id": "a20ec5e20b20",
-   "title": "성균관대 삼성SDI-SKKU 이차전지산학협력연구센터 행정 직원 모집 (~10/28 수)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140674&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-20",
-   "due": "2026-10-28",
-   "dueText": "~10/28 마감 추정"
   },
   {
    "id": "efdfdd55d173",
@@ -80,13 +103,18 @@
    "dueText": "~11/1 마감 추정"
   },
   {
-   "id": "bc26f49535db",
-   "title": "[채용/모집] 성균관대학교 배터리학과 행정직원 모집(~10/21 오전 11시까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140604&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-20",
-   "due": "2026-10-21",
-   "dueText": "~10/21 마감 추정"
+   "id": "db0b07c83ae7",
+   "title": "[모집] 발목 재활 운동 프로그램 참여자 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140691&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-20"
+  },
+  {
+   "id": "2d0581df648d",
+   "title": "2026 하반기 교직원(정규직) 신규채용 필기전형 결과 및 1차 면접전형 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140689&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-20"
   },
   {
    "id": "5a2fd13ca06a",
@@ -96,6 +124,20 @@
    "posted": "2026-10-20",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "eb3144b96a7e",
+   "title": "2026학년도 심산혁신장학금 장학생 선발안내( ~ 2026년 11월 6일(금) 오후 5시까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140601&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-20"
+  },
+  {
+   "id": "94059c3dc6c5",
+   "title": "2027년 엔지니어링인재육성재단 제2기 장학생 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140686&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-20"
   },
   {
    "id": "7cfa3602d5be",
@@ -151,23 +193,9 @@
    "dueText": "~10.19 마감 추정"
   },
   {
-   "id": "eb3144b96a7e",
-   "title": "2026학년도 심산혁신장학금 장학생 선발안내( ~ 2026년 11월 6일(금) 오후 5시까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140601&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-15"
-  },
-  {
    "id": "9b5b1ba2651d",
    "title": "(대학원)2026년도 동진장학연구재단 동진장학금 선발 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140575&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-15"
-  },
-  {
-   "id": "690d37bc6f56",
-   "title": "[한국장학재단] 2026-2학기 주거안정장학금 지급 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140581&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-15"
   }
