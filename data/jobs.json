@@ -1,6 +1,13 @@
 {
- "updated": "2026-10-22T08:54:20+09:00",
+ "updated": "2026-10-22T15:56:14+09:00",
  "items": [
+  {
+   "id": "e88437976592",
+   "title": "[학생인재개발팀] 2026학년도 2학기 PSAT 스터디 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140720&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-22"
+  },
   {
    "id": "b2f7e29549bc",
    "title": "자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
@@ -9,6 +16,36 @@
    "posted": "2026-10-20",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "770c5a485859",
+   "title": "[인공지능혁신융합대학사업단] 2026 구름톤 아레나 참가자 모집 안내(참가비 전액 지원)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140433&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-22"
+  },
+  {
+   "id": "71480464c6e0",
+   "title": "[인사캠] 2026년 11월 체력증진센터(경영관, 600주년기념관) 회원모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140568&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-22"
+  },
+  {
+   "id": "7d7d4951cc21",
+   "title": "교원인사팀(자연과학캠퍼스) 자체계약직원 모집 (~11.1)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140716&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-22",
+   "due": "2026-11-01",
+   "dueText": "~11.1 마감 추정"
+  },
+  {
+   "id": "91898fecc38f",
+   "title": "[대학원팀] 4단계 BK21 대학원혁신지원사업 사업추진관리 자체직원 채용 공고",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140715&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-22"
   },
   {
    "id": "09ababdce1b7",
@@ -64,25 +101,11 @@
    "posted": "2026-10-21"
   },
   {
-   "id": "309eacd6c2dd",
-   "title": "학생성공센터행정실 촉탁직원 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140701&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-21"
-  },
-  {
-   "id": "120a3a83e2a6",
-   "title": "대학원혁신센터 촉탁직원 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140698&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-21"
-  },
-  {
-   "id": "c4e2e8806fca",
-   "title": "성균인문아카데미 근로학생(아르바이트) 모집 안내 (11/3화, 1일)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140697&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-21"
+   "id": "9260ce9fe7af",
+   "title": "[학생인재개발팀] 2026학년도 2학기 PSAT 스터디 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140720&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-22"
   },
   {
    "id": "5a2fd13ca06a",
@@ -92,6 +115,13 @@
    "posted": "2026-10-20",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "37689287a0bb",
+   "title": "[인공지능혁신융합대학사업단] 2026 구름톤 아레나 참가자 모집 안내(참가비 전액 지원)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140433&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-22"
   },
   {
    "id": "87fd10c23fff",
