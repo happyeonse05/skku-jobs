@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T15:56:14+09:00",
+ "updated": "2026-10-23T08:53:00+09:00",
  "items": [
   {
    "id": "e88437976592",
@@ -18,11 +18,34 @@
    "dueText": "~12/18 마감 추정"
   },
   {
+   "id": "443267513243",
+   "title": "[성균관대학교 청정에너지ICT연구소] 이공계열 학사이상 행정직원 모집(1명)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140472&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-22"
+  },
+  {
    "id": "770c5a485859",
    "title": "[인공지능혁신융합대학사업단] 2026 구름톤 아레나 참가자 모집 안내(참가비 전액 지원)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140433&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-22"
+  },
+  {
+   "id": "81f68dbbcc3e",
+   "title": "[KUSF 두드림] 스포츠단 농구부 재능 기부 프로그램 참여자 모집 (창의품 10시간 지급)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140744&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-22"
+  },
+  {
+   "id": "ae24bc57876e",
+   "title": "(기간연장)성균관대 정보통신대학 학사행정업무 담당 행정직원 모집[~10/28(수)]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140348&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-22",
+   "due": "2026-10-28",
+   "dueText": "~10/28 마감 추정"
   },
   {
    "id": "71480464c6e0",
@@ -85,22 +108,6 @@
    "posted": "2026-10-21"
   },
   {
-   "id": "a20ec5e20b20",
-   "title": "성균관대 삼성SDI-SKKU 이차전지산학협력연구센터 행정 직원 모집 (~10/26 월 오전 11시)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140674&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-21",
-   "due": "2026-10-26",
-   "dueText": "~10/26 마감 추정"
-  },
-  {
-   "id": "f159e0ec4095",
-   "title": "[모집] 최근 발목 접질린 환자를 위한 재활 운동 프로그램 참여자를 모집합니다",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140691&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-21"
-  },
-  {
    "id": "9260ce9fe7af",
    "title": "[학생인재개발팀] 2026학년도 2학기 PSAT 스터디 모집",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140720&article.offset=0&articleLimit=10",
@@ -117,11 +124,27 @@
    "dueText": "~12/18 마감 추정"
   },
   {
+   "id": "271b47ed995a",
+   "title": "[성균관대학교 청정에너지ICT연구소] 이공계열 학사이상 행정직원 모집(1명)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140472&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-22"
+  },
+  {
    "id": "37689287a0bb",
    "title": "[인공지능혁신융합대학사업단] 2026 구름톤 아레나 참가자 모집 안내(참가비 전액 지원)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140433&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-22"
+  },
+  {
+   "id": "b34bf172dbf1",
+   "title": "[발전협력팀] 2026학년도 수원지역동문회 장학생 선발 안내(~11/13)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140739&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-22",
+   "due": "2026-11-13",
+   "dueText": "~11/13 마감 추정"
   },
   {
    "id": "87fd10c23fff",
@@ -187,15 +210,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140628&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-18"
-  },
-  {
-   "id": "7d12f971cdd3",
-   "title": "2026년 성암육영회 장학생 선발안내(10.14(수)~10.19(월) 09:00까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140538&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-15",
-   "due": "2026-10-19",
-   "dueText": "~10.19 마감 추정"
   }
  ]
 }
