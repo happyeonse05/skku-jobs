@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T08:53:00+09:00",
+ "updated": "2026-10-23T15:48:58+09:00",
  "items": [
   {
    "id": "e88437976592",
@@ -7,6 +7,13 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140720&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-22"
+  },
+  {
+   "id": "0db58ae705de",
+   "title": "[인공지능혁신융합대학사업단] AICOSS 사업단 설명회 참석 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140563&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-23"
   },
   {
    "id": "b2f7e29549bc",
@@ -30,6 +37,29 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140433&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-22"
+  },
+  {
+   "id": "f6e887abfed5",
+   "title": "[대학혁신과공유센터] 인텐시브 워크숍 <바이브코딩으로 게임 만들기(with NC AI)> 참가 모집(모집 연장)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140460&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-23"
+  },
+  {
+   "id": "a20ec5e20b20",
+   "title": "성균관대 삼성SDI-SKKU 이차전지산학협력연구센터 행정 직원 모집 (~10/26 월 오전 11시)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140674&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-23",
+   "due": "2026-10-26",
+   "dueText": "~10/26 마감 추정"
+  },
+  {
+   "id": "601148022059",
+   "title": "(자)1398피트니스센터 11월 등록 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140757&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-23"
   },
   {
    "id": "81f68dbbcc3e",
@@ -87,32 +117,18 @@
    "posted": "2026-10-21"
   },
   {
-   "id": "c0ea1a21c1e3",
-   "title": "[카운슬링센터] ✨\"관계 속 나를 찾아서 : 대인관계 집단상담\" 참여자를 모집합니다! (인사캠)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140496&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-21"
-  },
-  {
-   "id": "fc102fe08406",
-   "title": "[ SK SUNNY ] 2026 년 장시 지역 ‘SUNNY 청년발전행동 ’ 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140704&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-21"
-  },
-  {
-   "id": "8d5eb9b0aa53",
-   "title": "2026년 시립서울청소년센터 찾아가는 서울시 특수학급 예능발표회 및 청소년 어울림 한마당 자원봉사자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140703&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-21"
-  },
-  {
    "id": "9260ce9fe7af",
    "title": "[학생인재개발팀] 2026학년도 2학기 PSAT 스터디 모집",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140720&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-22"
+  },
+  {
+   "id": "8cdb460b3e54",
+   "title": "[인공지능혁신융합대학사업단] AICOSS 사업단 설명회 참석 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140563&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-23"
   },
   {
    "id": "5a2fd13ca06a",
@@ -136,6 +152,13 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140433&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-22"
+  },
+  {
+   "id": "a2534d2bd0ca",
+   "title": "(신청기간 연장)2026년 2학기 한국선원복지고용센터 \"선원가족장학\" 신청 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=139374&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-23"
   },
   {
    "id": "b34bf172dbf1",
@@ -203,13 +226,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140645&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-19"
-  },
-  {
-   "id": "40ac520dfaa6",
-   "title": "2026학년도 2학기 1차 연구우수장학생 선발 결과 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140628&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-18"
   }
  ]
 }
