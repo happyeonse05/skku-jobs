@@ -1,36 +1,6 @@
 {
- "updated": "2026-10-27T09:14:21+09:00",
+ "updated": "2026-10-27T16:09:36+09:00",
  "items": [
-  {
-   "id": "b9db374adf03",
-   "title": "에듀테크연구소 행정 직원 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140797&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-26"
-  },
-  {
-   "id": "07a10d59642e",
-   "title": "인공지능 연구실 BMIL 겨울방학 학부연구생 모집 (~11/1)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140773&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-26",
-   "due": "2026-11-01",
-   "dueText": "~11/1 마감 추정"
-  },
-  {
-   "id": "e88437976592",
-   "title": "[학생인재개발팀] 2026학년도 2학기 PSAT 스터디 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140720&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-22"
-  },
-  {
-   "id": "0db58ae705de",
-   "title": "[인공지능혁신융합대학사업단] AICOSS 사업단 설명회 참석 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140563&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-23"
-  },
   {
    "id": "b2f7e29549bc",
    "title": "자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
@@ -41,23 +11,55 @@
    "dueText": "~12/18 마감 추정"
   },
   {
-   "id": "443267513243",
-   "title": "[성균관대학교 청정에너지ICT연구소] 이공계열 학사이상 행정직원 모집(1명)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140472&article.offset=0&articleLimit=10",
+   "id": "acb4547d79f3",
+   "title": "[연장공지] 사회과학대학 행정조교(휴먼사이언스사회융합전공) 모집 [~10.30.(금)까지, 조기채용시 마감 예정]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139593&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
-   "posted": "2026-10-22"
+   "posted": "2026-10-27",
+   "due": "2026-10-30",
+   "dueText": "~10.30 마감 추정"
   },
   {
-   "id": "770c5a485859",
-   "title": "[인공지능혁신융합대학사업단] 2026 구름톤 아레나 참가자 모집 안내(참가비 전액 지원)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140433&article.offset=0&articleLimit=10",
+   "id": "226d9efb4488",
+   "title": "고용노동부 K-뉴딜 아카데미 참여청년 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140820&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
-   "posted": "2026-10-22"
+   "posted": "2026-10-27"
   },
   {
    "id": "f981fbfcc583",
    "title": "[청년도약 인재양성 부트캠프] 부트캠프 연구과제 신청 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140788&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-27"
+  },
+  {
+   "id": "07a10d59642e",
+   "title": "인공지능 연구실 BMIL 겨울방학 학부연구생 모집 (~11/1)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140773&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-27",
+   "due": "2026-11-01",
+   "dueText": "~11/1 마감 추정"
+  },
+  {
+   "id": "b9db374adf03",
+   "title": "에듀테크연구소 행정 직원 채용 공고",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140797&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-27"
+  },
+  {
+   "id": "443267513243",
+   "title": "[성균관대학교 청정에너지ICT연구소] 이공계열 학사이상 행정직원 모집(1명)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140472&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-27"
+  },
+  {
+   "id": "770c5a485859",
+   "title": "[인공지능혁신융합대학사업단] 2026 구름톤 아레나 참가자 모집 안내(참가비 전액 지원)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140433&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-27"
   },
@@ -83,84 +85,6 @@
    "posted": "2026-10-26"
   },
   {
-   "id": "5385ccd45654",
-   "title": "2026 수영 전국 대학생 로컬 콘텐츠 개발 경진대회 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140795&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-26"
-  },
-  {
-   "id": "751357bb402b",
-   "title": "2027년 상반기 (주)샘표식품 현장실습생 모집 안내(~11.5.)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140787&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-26",
-   "due": "2026-11-05",
-   "dueText": "~11.5 마감 추정"
-  },
-  {
-   "id": "5a64f4e86922",
-   "title": "2026 서울시 청년인생설계학교 스타터코스 참여자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140781&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-26"
-  },
-  {
-   "id": "a20ec5e20b20",
-   "title": "성균관대 삼성SDI-SKKU 이차전지산학협력연구센터 행정 직원 모집 (~10/26 월 오전 11시)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140674&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-26",
-   "due": "2026-10-26",
-   "dueText": "~10/26 마감 추정"
-  },
-  {
-   "id": "acb4547d79f3",
-   "title": "[연장공지] 사회과학대학 행정조교(휴먼사이언스사회융합전공) 모집 [~10.30.(금)까지, 조기채용시 마감 예정]",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139593&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-26",
-   "due": "2026-10-30",
-   "dueText": "~10.30 마감 추정"
-  },
-  {
-   "id": "90be7cde9446",
-   "title": "[기한연장]2026년도 스마트폰 과의존 예방교육 우수사례 공모전 기간연장 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140776&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-26"
-  },
-  {
-   "id": "409f7be5f2fe",
-   "title": "에듀테크연구소 행정 직원 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140797&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-26"
-  },
-  {
-   "id": "0db736e2f5d5",
-   "title": "인공지능 연구실 BMIL 겨울방학 학부연구생 모집 (~11/1)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140773&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-26",
-   "due": "2026-11-01",
-   "dueText": "~11/1 마감 추정"
-  },
-  {
-   "id": "9260ce9fe7af",
-   "title": "[학생인재개발팀] 2026학년도 2학기 PSAT 스터디 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140720&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-22"
-  },
-  {
-   "id": "8cdb460b3e54",
-   "title": "[인공지능혁신융합대학사업단] AICOSS 사업단 설명회 참석 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140563&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-23"
-  },
-  {
    "id": "5a2fd13ca06a",
    "title": "자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140492&article.offset=0&articleLimit=10",
@@ -170,18 +94,11 @@
    "dueText": "~12/18 마감 추정"
   },
   {
-   "id": "271b47ed995a",
-   "title": "[성균관대학교 청정에너지ICT연구소] 이공계열 학사이상 행정직원 모집(1명)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140472&article.offset=0&articleLimit=10",
+   "id": "e84bb6792830",
+   "title": "2026년도 하반기 강화군 대학생 등록금 지원 사업 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140811&article.offset=0&articleLimit=10",
    "writer": "장학",
-   "posted": "2026-10-22"
-  },
-  {
-   "id": "37689287a0bb",
-   "title": "[인공지능혁신융합대학사업단] 2026 구름톤 아레나 참가자 모집 안내(참가비 전액 지원)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140433&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-22"
+   "posted": "2026-10-27"
   },
   {
    "id": "50556da02ec0",
@@ -249,13 +166,6 @@
    "posted": "2026-10-19",
    "due": "2026-10-28",
    "dueText": "~ 10.28 마감 추정"
-  },
-  {
-   "id": "54f542936fff",
-   "title": "2026년도 2학기 안산인재육성재단 안산시 대학생 본인부담 등록금 반값지원 신청안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140647&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-19"
   }
  ]
 }
