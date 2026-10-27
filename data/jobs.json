@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T16:17:25+09:00",
+ "updated": "2026-10-27T09:14:21+09:00",
  "items": [
   {
    "id": "b9db374adf03",
@@ -55,16 +55,37 @@
    "posted": "2026-10-22"
   },
   {
-   "id": "5385ccd45654",
-   "title": "2026 수영 전국 대학생 로컬 콘텐츠 개발 경진대회 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140795&article.offset=0&articleLimit=10",
+   "id": "f981fbfcc583",
+   "title": "[청년도약 인재양성 부트캠프] 부트캠프 연구과제 신청 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140788&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-27"
+  },
+  {
+   "id": "71480464c6e0",
+   "title": "[인사캠] 2026년 11월 체력증진센터(경영관, 600주년기념관) 회원모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140568&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-27"
+  },
+  {
+   "id": "b74100f7c982",
+   "title": "(2027년 1학기) CAMPUS Asia 일본파견 교환장학생 모집(_첨부파일 추가)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140805&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-26"
   },
   {
-   "id": "f981fbfcc583",
-   "title": "[청년도약 인재양성 부트캠프] 부트캠프 연구과제 신청 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140788&article.offset=0&articleLimit=10",
+   "id": "47f57dd293f1",
+   "title": "(2027년 1학기) CAMPUS Asia 중국파견 교환장학생 모집(_첨부파일 추가)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140804&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-26"
+  },
+  {
+   "id": "5385ccd45654",
+   "title": "2026 수영 전국 대학생 로컬 콘텐츠 개발 경진대회 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140795&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-26"
   },
@@ -103,34 +124,11 @@
    "dueText": "~10.30 마감 추정"
   },
   {
-   "id": "71480464c6e0",
-   "title": "[인사캠] 2026년 11월 체력증진센터(경영관, 600주년기념관) 회원모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140568&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-26"
-  },
-  {
    "id": "90be7cde9446",
    "title": "[기한연장]2026년도 스마트폰 과의존 예방교육 우수사례 공모전 기간연장 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140776&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-26"
-  },
-  {
-   "id": "2b426dc39d59",
-   "title": "2027 시립문래청소년센터 동계 해외봉사단 6기 모집(인도네시아편)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140775&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-26"
-  },
-  {
-   "id": "e135357c1c11",
-   "title": "의과대학 이주상 교수님 연구실 학부생 연구 인턴 프로그램 참가자 모집 (~10/30)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140774&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-26",
-   "due": "2026-10-30",
-   "dueText": "~10/30 마감 추정"
   },
   {
    "id": "409f7be5f2fe",
