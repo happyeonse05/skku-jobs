@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-27T16:09:36+09:00",
+ "updated": "2026-10-28T09:14:59+09:00",
  "items": [
+  {
+   "id": "5b5ddf43fa0f",
+   "title": "2026년 하반기 교직원(정규직) 1차면접전형 결과 발표 및 2차면접전형 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140830&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-27"
+  },
+  {
+   "id": "8371c29926cf",
+   "title": "2026년 성균관대학교 서베이리서치센터 통계 워크숍 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140536&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-27"
+  },
   {
    "id": "b2f7e29549bc",
    "title": "자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
@@ -9,6 +23,22 @@
    "posted": "2026-10-20",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "2b565cc410cb",
+   "title": "성균관대학교 AI반도체혁신연구소 행정직원 모집(~11/06(금)까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140829&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-27",
+   "due": "2026-11-06",
+   "dueText": "~11/06 마감 추정"
+  },
+  {
+   "id": "fd0b7c47875e",
+   "title": "[대학혁신과공유센터] 인텐시브 워크숍 <바이브코딩으로 게임 만들기(with NC AI)> 선발 공지",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140828&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-27"
   },
   {
    "id": "acb4547d79f3",
@@ -71,18 +101,18 @@
    "posted": "2026-10-27"
   },
   {
-   "id": "b74100f7c982",
-   "title": "(2027년 1학기) CAMPUS Asia 일본파견 교환장학생 모집(_첨부파일 추가)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140805&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-26"
+   "id": "cddc741c4e87",
+   "title": "2026년 하반기 교직원(정규직) 1차면접전형 결과 발표 및 2차면접전형 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140830&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-27"
   },
   {
-   "id": "47f57dd293f1",
-   "title": "(2027년 1학기) CAMPUS Asia 중국파견 교환장학생 모집(_첨부파일 추가)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140804&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-26"
+   "id": "fa003c346639",
+   "title": "2026년 성균관대학교 서베이리서치센터 통계 워크숍 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140536&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-27"
   },
   {
    "id": "5a2fd13ca06a",
@@ -92,6 +122,13 @@
    "posted": "2026-10-20",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "9b5b1ba2651d",
+   "title": "(내용변경-대학원)2026년도 동진장학연구재단 동진장학금 선발 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140575&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-10-27"
   },
   {
    "id": "e84bb6792830",
@@ -157,15 +194,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140652&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-19"
-  },
-  {
-   "id": "a5df0ff6abd3",
-   "title": "2027년도 해동과학문화재단 해동장학생 선발 안내(공학계열 학부생, ~ 10.28(수) 09:00까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140368&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-19",
-   "due": "2026-10-28",
-   "dueText": "~ 10.28 마감 추정"
   }
  ]
 }
