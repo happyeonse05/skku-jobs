@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T09:36:21+09:00",
+ "updated": "2026-10-29T16:54:01+09:00",
  "items": [
   {
    "id": "6bad3e9d58eb",
@@ -16,6 +16,27 @@
    "posted": "2026-10-20",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "acb4547d79f3",
+   "title": "[접수 마감] 사회과학대학 행정조교(휴먼사이언스사회융합전공) 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139593&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-29"
+  },
+  {
+   "id": "22616079fa48",
+   "title": "『2026년 4분기 청년기본소득 신청』 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141059&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-29"
+  },
+  {
+   "id": "010ec7a267f2",
+   "title": "[학생성공센터] 대학원 학생성공스토리 공모전(11/11) 진행자 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141051&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-29"
   },
   {
    "id": "5b5ddf43fa0f",
@@ -67,31 +88,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140832&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-28"
-  },
-  {
-   "id": "2b565cc410cb",
-   "title": "성균관대학교 AI반도체혁신연구소 행정직원 모집(~11/06(금)까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140829&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-27",
-   "due": "2026-11-06",
-   "dueText": "~11/06 마감 추정"
-  },
-  {
-   "id": "fd0b7c47875e",
-   "title": "[대학혁신과공유센터] 인텐시브 워크숍 <바이브코딩으로 게임 만들기(with NC AI)> 선발 공지",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140828&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-27"
-  },
-  {
-   "id": "acb4547d79f3",
-   "title": "[연장공지] 사회과학대학 행정조교(휴먼사이언스사회융합전공) 모집 [~10.30.(금)까지, 조기채용시 마감 예정]",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139593&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-27",
-   "due": "2026-10-30",
-   "dueText": "~10.30 마감 추정"
   },
   {
    "id": "c0fb86f782aa",
