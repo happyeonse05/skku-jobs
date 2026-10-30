@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T16:54:01+09:00",
+ "updated": "2026-10-30T09:37:18+09:00",
  "items": [
   {
    "id": "6bad3e9d58eb",
@@ -16,6 +16,20 @@
    "posted": "2026-10-20",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "a71ea69f7f80",
+   "title": "[스포츠재활 연구실] 만성 발목 불안정성 대상 발목 재활운동 연구 참여자 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141109&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-29"
+  },
+  {
+   "id": "77269ea7a548",
+   "title": "성균관대학교 양자공학과 객원교수 채용 공고",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141105&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-29"
   },
   {
    "id": "acb4547d79f3",
@@ -72,20 +86,6 @@
    "id": "e71138d40077",
    "title": "「2026학년도 전국 대학(원)생 빅데이터 경진대회」개최 재안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140834&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-28"
-  },
-  {
-   "id": "fee2f808510e",
-   "title": "첨단산업인재양성 인공지능부트캠프 산학교수 채용 공고(~2026.11.8)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140833&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-08"
-  },
-  {
-   "id": "8a35e7e1561a",
-   "title": "[대학원팀] 4단계 BK21 대학원혁신지원사업 사업추진관리 자체직원 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140832&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-10-28"
   },
