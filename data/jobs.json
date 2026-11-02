@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-02T09:15:25+09:00",
+ "updated": "2026-11-02T17:42:37+09:00",
  "items": [
+  {
+   "id": "6fa181c0e4d2",
+   "title": "[창업지원단/실험실창업혁신단] 2026 SKKU UNITE 프리 텍스코어(11/28~29) 참가자 모집(이비스 앰배서더 수원, 총상금 350만원)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141498&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-02"
+  },
+  {
+   "id": "87a934a81523",
+   "title": "[학생사회공헌단 다소미 X 학생성공센터] 2026 배워서 남 주는 프로젝트 성과공유회 개최 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141494&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-02"
+  },
   {
    "id": "5541031e8640",
    "title": "2027년도 제16회 변호사시험 시험관리원(재학생) 모집(~11.8.(일)/조기마감 가능)",
@@ -27,18 +41,62 @@
    "dueText": "~12/18 마감 추정"
   },
   {
-   "id": "3b2804acf95c",
-   "title": "통증 예측과 뇌 반응 연구 참여자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141152&article.offset=0&articleLimit=10",
+   "id": "de0dc2278690",
+   "title": "✅[DS교육센터] 2026-2학기 DS교과지원 TA 모집✅",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140964&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
-   "posted": "2026-10-31"
+   "posted": "2026-11-02"
+  },
+  {
+   "id": "70efe0b9b6fd",
+   "title": "SKKU AI Colloquium 2026 행사 지원 아르바이트 모집 안내 (11/6 금)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141483&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-02"
+  },
+  {
+   "id": "284df739f5aa",
+   "title": "2026년 재난안전 AI 데이터 활용 해커톤 공고 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141478&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-02"
+  },
+  {
+   "id": "010ec7a267f2",
+   "title": "[학생성공센터] 대학원 학생성공스토리 공모전(11/11) 진행자 및 알바 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141051&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-02"
+  },
+  {
+   "id": "c71e1759c0d4",
+   "title": "성균관대학교 건설환경공학부 대학원 행정조교 채용(~11.09(월) 17:00까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141289&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-02",
+   "due": "2026-11-09",
+   "dueText": "~11.09 마감 추정"
   },
   {
    "id": "ee333ec1856f",
    "title": "양자생명물리과학원 행정직원 모집",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141131&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
-   "posted": "2026-10-30"
+   "posted": "2026-11-02"
+  },
+  {
+   "id": "623d0002bfc4",
+   "title": "[카운슬링센터] ✨11/20(금) 오후 1시「불안관리 워크숍 : 아로마테라피 & 싱잉볼」프로그램 참여자를 모집합니다! (인사캠)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141243&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-02"
+  },
+  {
+   "id": "3b2804acf95c",
+   "title": "통증 예측과 뇌 반응 연구 참여자 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141152&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-10-31"
   },
   {
    "id": "5a53f7ac8c3d",
@@ -57,46 +115,18 @@
    "dueText": "~11/29 마감 추정"
   },
   {
-   "id": "77269ea7a548",
-   "title": "성균관대학교 양자공학과 객원교수 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141105&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-30"
+   "id": "517b64d64d67",
+   "title": "[창업지원단/실험실창업혁신단] 2026 SKKU UNITE 프리 텍스코어(11/28~29) 참가자 모집(이비스 앰배서더 수원, 총상금 350만원)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141498&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-02"
   },
   {
-   "id": "a71ea69f7f80",
-   "title": "[스포츠재활 연구실] 만성 발목 불안정성 대상 발목 재활운동 연구 참여자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141109&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-29"
-  },
-  {
-   "id": "acb4547d79f3",
-   "title": "[접수 마감] 사회과학대학 행정조교(휴먼사이언스사회융합전공) 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139593&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-29"
-  },
-  {
-   "id": "22616079fa48",
-   "title": "『2026년 4분기 청년기본소득 신청』 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141059&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-29"
-  },
-  {
-   "id": "010ec7a267f2",
-   "title": "[학생성공센터] 대학원 학생성공스토리 공모전(11/11) 진행자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141051&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-29"
-  },
-  {
-   "id": "5b5ddf43fa0f",
-   "title": "2026년 하반기 교직원(정규직) 1차면접전형 결과 발표 및 2차면접전형 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140830&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-10-29"
+   "id": "a7345d6ad794",
+   "title": "[학생사회공헌단 다소미 X 학생성공센터] 2026 배워서 남 주는 프로젝트 성과공유회 개최 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141494&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-02"
   },
   {
    "id": "4d7d277caeef",
@@ -124,6 +154,22 @@
    "dueText": "~12/18 마감 추정"
   },
   {
+   "id": "eb3144b96a7e",
+   "title": "2026학년도 심산혁신장학금 장학생 선발안내( ~ 2026년 11월 6일(금) 오후 5시까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140601&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-02"
+  },
+  {
+   "id": "a5df0ff6abd3",
+   "title": "(연장) 2027년도 해동과학문화재단 해동장학생 선발 안내(공학계열 학부생, ~ 11.03(화) 09:00까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140368&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-02",
+   "due": "2026-11-03",
+   "dueText": "~ 11.03 마감 추정"
+  },
+  {
    "id": "755fe7a2cbbc",
    "title": "2026년도 통영시 저소득 대학생 장학금 지원대상자 선발 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141044&article.offset=0&articleLimit=10",
@@ -136,15 +182,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140845&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-28"
-  },
-  {
-   "id": "a5df0ff6abd3",
-   "title": "(연장) 2027년도 해동과학문화재단 해동장학생 선발 안내(공학계열 학부생, ~ 11.02(월) 09:00까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140368&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-28",
-   "due": "2026-11-02",
-   "dueText": "~ 11.02 마감 추정"
   },
   {
    "id": "9b5b1ba2651d",
@@ -189,13 +226,6 @@
    "posted": "2026-10-22",
    "due": "2026-11-13",
    "dueText": "~11/13 마감 추정"
-  },
-  {
-   "id": "87fd10c23fff",
-   "title": "2025년 소득에 대한 근로·자녀장려금 기한 후 신청 안내(~26.12.1.)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140706&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-21"
   }
  ]
 }
