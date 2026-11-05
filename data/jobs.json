@@ -1,12 +1,26 @@
 {
- "updated": "2026-11-04T17:25:02+09:00",
+ "updated": "2026-11-05T10:18:03+09:00",
  "items": [
+  {
+   "id": "2d0ec1921da7",
+   "title": "(인사캠/서울)성균관대학교 성균어학원 한국어학당 한국어강사 채용",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141580&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-05"
+  },
   {
    "id": "9c4536b9fb80",
    "title": "2026년 하반기 교직원(정규직) 신규채용 1차 면접전형 결과 발표 및 2차 면접전형 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141538&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-11-03"
+  },
+  {
+   "id": "87a934a81523",
+   "title": "[학생사회공헌단 다소미 X 학생성공센터] 2026 배워서 남 주는 프로젝트 성과공유회 개최 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141494&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-05"
   },
   {
    "id": "b2f7e29549bc",
@@ -16,6 +30,20 @@
    "posted": "2026-10-20",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "95f02967ca6b",
+   "title": "[운용재] 2026년 변리사반 신입실원 모집안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141576&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-05"
+  },
+  {
+   "id": "002087fec896",
+   "title": "[창업지원단] 성균관대학교 창업지원단 창업중심대학 직원(매니저) 채용 공고(~2026년 11월 9일(월) 접수)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141572&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-04"
   },
   {
    "id": "de0dc2278690",
@@ -76,18 +104,11 @@
    "posted": "2026-11-03"
   },
   {
-   "id": "8bcfd6655c62",
-   "title": "[뇌과학이미징연구단] 이야기/사건 지각에 관한 심리학 실험 참여자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141510&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-03"
-  },
-  {
-   "id": "70efe0b9b6fd",
-   "title": "SKKU AI Colloquium 2026 행사 지원 아르바이트 모집 안내 (11/6 금)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141483&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-03"
+   "id": "259a4b6fbb35",
+   "title": "(인사캠/서울)성균관대학교 성균어학원 한국어학당 한국어강사 채용",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141580&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-05"
   },
   {
    "id": "33ec07627fd6",
@@ -97,6 +118,13 @@
    "posted": "2026-11-03"
   },
   {
+   "id": "a7345d6ad794",
+   "title": "[학생사회공헌단 다소미 X 학생성공센터] 2026 배워서 남 주는 프로젝트 성과공유회 개최 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141494&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-05"
+  },
+  {
    "id": "5a2fd13ca06a",
    "title": "자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140492&article.offset=0&articleLimit=10",
@@ -104,6 +132,13 @@
    "posted": "2026-10-20",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "659aad51a929",
+   "title": "[한국장학재단] 2026학년도 2학기 국가장학금(1유형/다자녀) 지급 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=139991&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-05"
   },
   {
    "id": "a1cc5a8f7e8a",
@@ -171,13 +206,6 @@
    "id": "9b5b1ba2651d",
    "title": "(내용변경-대학원)2026년도 동진장학연구재단 동진장학금 선발 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140575&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-27"
-  },
-  {
-   "id": "e84bb6792830",
-   "title": "2026년도 하반기 강화군 대학생 등록금 지원 사업 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140811&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-27"
   }
