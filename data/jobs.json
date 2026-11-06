@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T10:22:36+09:00",
+ "updated": "2026-11-06T17:49:46+09:00",
  "items": [
   {
    "id": "9c4536b9fb80",
@@ -9,13 +9,62 @@
    "posted": "2026-11-03"
   },
   {
+   "id": "ee333ec1856f",
+   "title": "양자생명물리과학원 행정직원 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141131&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-06"
+  },
+  {
    "id": "b2f7e29549bc",
    "title": "자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140492&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
-   "posted": "2026-10-20",
+   "posted": "2026-11-06",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "6bad3e9d58eb",
+   "title": "사범대학 에듀테크연구소 행정 직원 채용 공고",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141041&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-06"
+  },
+  {
+   "id": "456a32123076",
+   "title": "2027 SKKU Chinese Creators(SCC) 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141647&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-06"
+  },
+  {
+   "id": "4dba40e8e97d",
+   "title": "2027 SKKU Global Creators (SGC) Recruitment Announcement",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141646&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-06"
+  },
+  {
+   "id": "3ba6e1c5263b",
+   "title": "[교수학습혁신센터] 대학원 Learning tips 집필 대학원생 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141659&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-06"
+  },
+  {
+   "id": "d461a5ff5b96",
+   "title": "성균융합원 응용AI융합학부 자체직원 채용",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141656&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-06"
+  },
+  {
+   "id": "952d6fdda11d",
+   "title": "[입학처] 2027학년도 수시모집 논술시험 물품 패킹 단기 근로 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141643&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-06"
   },
   {
    "id": "de0dc2278690",
@@ -48,48 +97,6 @@
    "dueText": "~11/18 마감 추정"
   },
   {
-   "id": "70efe0b9b6fd",
-   "title": "SKKU AI Colloquium 2026 행사 지원 아르바이트 모집 안내 (11/6 금) (마감)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141483&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-05"
-  },
-  {
-   "id": "f5cc08d42b35",
-   "title": "IBS 뇌과학이미징연구단 행정직원 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141591&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-05"
-  },
-  {
-   "id": "2d0ec1921da7",
-   "title": "(인사캠/서울)성균관대학교 성균어학원 한국어학당 한국어강사 채용",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141580&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-05"
-  },
-  {
-   "id": "ee333ec1856f",
-   "title": "양자생명물리과학원 행정직원 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141131&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-05"
-  },
-  {
-   "id": "95f02967ca6b",
-   "title": "[운용재] 2026년 변리사반 신입실원 모집안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141576&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-05"
-  },
-  {
-   "id": "002087fec896",
-   "title": "[창업지원단] 성균관대학교 창업지원단 창업중심대학 직원(매니저) 채용 공고(~2026년 11월 9일(월) 접수)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141572&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-04"
-  },
-  {
    "id": "33ec07627fd6",
    "title": "2026년 하반기 교직원(정규직) 신규채용 1차 면접전형 결과 발표 및 2차 면접전형 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141538&article.offset=0&articleLimit=10",
@@ -97,11 +104,18 @@
    "posted": "2026-11-03"
   },
   {
+   "id": "927aa8cd4773",
+   "title": "양자생명물리과학원 행정직원 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141131&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-06"
+  },
+  {
    "id": "5a2fd13ca06a",
    "title": "자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140492&article.offset=0&articleLimit=10",
    "writer": "장학",
-   "posted": "2026-10-20",
+   "posted": "2026-11-06",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
   },
