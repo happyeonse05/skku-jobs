@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:50:26+09:00",
+ "updated": "2026-11-06T10:22:36+09:00",
  "items": [
   {
    "id": "9c4536b9fb80",
@@ -16,6 +16,20 @@
    "posted": "2026-10-20",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "de0dc2278690",
+   "title": "✅[DS교육센터] 2026-2학기 DS교과지원 TA 모집✅",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140964&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-06"
+  },
+  {
+   "id": "9a110db62818",
+   "title": "2026학년도 국제동계학기(WISE) 조교(TA/OA/HA) 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140957&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-06"
   },
   {
    "id": "8bcfd6655c62",
@@ -76,22 +90,6 @@
    "posted": "2026-11-04"
   },
   {
-   "id": "de0dc2278690",
-   "title": "✅[DS교육센터] 2026-2학기 DS교과지원 TA 모집✅",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140964&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-04"
-  },
-  {
-   "id": "eac5928cafe9",
-   "title": "[AI 부트캠프사업단 X 제네시스랩] 몰입형 교과목 4기 수강생 모집 (~11/08 (일) 마감) *선착순 진행",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141569&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-04",
-   "due": "2026-11-08",
-   "dueText": "~11/08 마감 추정"
-  },
-  {
    "id": "33ec07627fd6",
    "title": "2026년 하반기 교직원(정규직) 신규채용 1차 면접전형 결과 발표 및 2차 면접전형 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141538&article.offset=0&articleLimit=10",
@@ -106,6 +104,13 @@
    "posted": "2026-10-20",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "5a0480176b5a",
+   "title": "2026학년도 2학기 국가근로장학생 운영 현황 및 사전교육 자료 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141627&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-06"
   },
   {
    "id": "a1cc5a8f7e8a",
@@ -175,13 +180,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141044&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-10-29"
-  },
-  {
-   "id": "fe7b35c241a0",
-   "title": "2026학년도 2학기 2차 연구우수장학생 선발 결과 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140845&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-10-28"
   }
  ]
 }
