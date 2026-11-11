@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:02:20+09:00",
+ "updated": "2026-11-11T10:00:30+09:00",
  "items": [
   {
    "id": "b2f7e29549bc",
@@ -94,6 +94,20 @@
    "dueText": "~12/18 마감 추정"
   },
   {
+   "id": "07c630de5ce1",
+   "title": "2026학년도 한국고등교육재단 제6기 문우림 장학생 선발 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141765&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-11"
+  },
+  {
+   "id": "8972fcff1077",
+   "title": "2026년 겨울학기 한국농어촌희망재단 한국마사회 대학생 봉사자 연계 지역돌봄 지원사업 (겨울방학) 장학생 선발 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141760&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-11"
+  },
+  {
    "id": "94059c3dc6c5",
    "title": "2027년 엔지니어링인재육성재단 제2기 장학생 모집 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140686&article.offset=0&articleLimit=10",
@@ -152,22 +166,6 @@
    "posted": "2026-11-03",
    "due": "2026-11-11",
    "dueText": "~ 11.11 마감 추정"
-  },
-  {
-   "id": "eb3144b96a7e",
-   "title": "2026학년도 심산혁신장학금 장학생 선발안내( ~ 2026년 11월 6일(금) 오후 5시까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140601&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-11-02"
-  },
-  {
-   "id": "a5df0ff6abd3",
-   "title": "(연장) 2027년도 해동과학문화재단 해동장학생 선발 안내(공학계열 학부생, ~ 11.03(화) 09:00까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140368&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-11-02",
-   "due": "2026-11-03",
-   "dueText": "~ 11.03 마감 추정"
   }
  ]
 }
