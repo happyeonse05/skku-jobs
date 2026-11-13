@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-12T18:03:57+09:00",
+ "updated": "2026-11-13T10:41:29+09:00",
  "items": [
+  {
+   "id": "cd950be058d4",
+   "title": "대학원혁신센터 촉탁직원 채용 공고",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141887&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-12"
+  },
   {
    "id": "530c88b3c409",
    "title": "[인공지능혁신융합대학사업단] 2026 AICOSS 11월 전문가 특강 안내 사전신청안내",
@@ -13,9 +20,16 @@
    "title": "[채용/모집] 자연과학대학 수학과사무실 행정업무 조교 채용 (~11/18(수)까지)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141604&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
-   "posted": "2026-11-12",
+   "posted": "2026-11-13",
    "due": "2026-11-18",
    "dueText": "~11/18 마감 추정"
+  },
+  {
+   "id": "87a934a81523",
+   "title": "[학생사회공헌단 다소미 X 학생성공센터] 2026 배워서 남 주는 프로젝트 성과공유회 개최 안내(-11/15 신청마감)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141494&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-13"
   },
   {
    "id": "de0dc2278690",
@@ -32,6 +46,13 @@
    "posted": "2026-11-09",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "0af879109cf2",
+   "title": "성균관대학교 전자전기공학부 자체계약직원 채용(~ 2026.11.20.(금) 14시 까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140837&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-20"
   },
   {
    "id": "368794e24f30",
@@ -99,11 +120,11 @@
    "posted": "2026-11-12"
   },
   {
-   "id": "39ff71b0d4b7",
-   "title": "[학생성공센터] e-포폴 특강 영상 편집자 1인 모집(마감)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141780&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-11"
+   "id": "9b472a7ff0d8",
+   "title": "대학원혁신센터 촉탁직원 채용 공고",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141887&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-12"
   },
   {
    "id": "0c60f5847cf7",
@@ -117,9 +138,16 @@
    "title": "[채용/모집] 자연과학대학 수학과사무실 행정업무 조교 채용 (~11/18(수)까지)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141604&article.offset=0&articleLimit=10",
    "writer": "장학",
-   "posted": "2026-11-12",
+   "posted": "2026-11-13",
    "due": "2026-11-18",
    "dueText": "~11/18 마감 추정"
+  },
+  {
+   "id": "a7345d6ad794",
+   "title": "[학생사회공헌단 다소미 X 학생성공센터] 2026 배워서 남 주는 프로젝트 성과공유회 개최 안내(-11/15 신청마감)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141494&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-13"
   },
   {
    "id": "951fb70d733d",
