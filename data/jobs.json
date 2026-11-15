@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:25:15+09:00",
+ "updated": "2026-11-15T09:45:40+09:00",
  "items": [
   {
    "id": "ecd2539f214a",
@@ -92,6 +92,15 @@
    "dueText": "~12/18 마감 추정"
   },
   {
+   "id": "852d25a90e08",
+   "title": "2026학년도 동계 의료인공지능 체험형 인턴십 프로그램 참가자 모집(~11/27)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141980&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-15",
+   "due": "2026-11-27",
+   "dueText": "~11/27 마감 추정"
+  },
+  {
    "id": "2b565cc410cb",
    "title": "[마감] 성균관대학교 AI반도체혁신연구소 행정직원 모집(~11/06(금)까지)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140829&article.offset=0&articleLimit=10",
@@ -155,13 +164,6 @@
    "id": "f86836139107",
    "title": "겨울방학 중 특수교육 종일반 대학생 자원봉사자 모집",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141880&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-12"
-  },
-  {
-   "id": "e17ae8d5cba2",
-   "title": "성균관대학교 소프트웨어융합대학 자체계약직원 채용(2026년 11월 19일 15시 까지 )",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141861&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-11-12"
   },
