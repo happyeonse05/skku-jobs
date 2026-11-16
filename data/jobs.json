@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T17:41:55+09:00",
+ "updated": "2026-11-16T09:45:35+09:00",
  "items": [
   {
    "id": "ecd2539f214a",
@@ -76,20 +76,6 @@
    "posted": "2026-11-13"
   },
   {
-   "id": "87a934a81523",
-   "title": "[학생사회공헌단 다소미 X 학생성공센터] 2026 배워서 남 주는 프로젝트 성과공유회 개최 안내(-11/15 신청마감)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141494&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-13"
-  },
-  {
-   "id": "de0dc2278690",
-   "title": "✅[DS교육센터] 2026-2학기 DS교과지원 TA 모집✅",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140964&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-12"
-  },
-  {
    "id": "b2f7e29549bc",
    "title": "자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140492&article.offset=0&articleLimit=10",
@@ -97,6 +83,38 @@
    "posted": "2026-11-09",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "d508da7ec48c",
+   "title": "[성균관대학교] 2027 신규 국내 특허협약사무소 모집 공고(~11/30 오후 4시)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141994&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-16",
+   "due": "2026-11-30",
+   "dueText": "~11/30 마감 추정"
+  },
+  {
+   "id": "2ca64bfd383e",
+   "title": "**마감**2027학년도 외국인 특별전형 학사과정 입시 업무 보조 단기근로(아르바이트) 모집_러시아어 가능자",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141702&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-16"
+  },
+  {
+   "id": "7ecc95d490b5",
+   "title": "**마감**2027학년도 외국인 특별전형 학사과정 입시 업무 보조 단기근로(아르바이트) 모집_몽골어 가능자",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141728&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-16"
+  },
+  {
+   "id": "f88f08afe176",
+   "title": "성균관대학교 배터리학과 행정직원 모집(~11/20(금)까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141813&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-16",
+   "due": "2026-11-20",
+   "dueText": "~11/20 마감 추정"
   },
   {
    "id": "852d25a90e08",
@@ -145,34 +163,6 @@
    "posted": "2026-11-13",
    "due": "2026-11-29",
    "dueText": "~11/29 마감 추정"
-  },
-  {
-   "id": "0af879109cf2",
-   "title": "성균관대학교 전자전기공학부 자체계약직원 채용(~ 2026.11.20.(금) 14시 까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=140837&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-20"
-  },
-  {
-   "id": "368794e24f30",
-   "title": "동아시아학술원 존경각 촉탁직원 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141791&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-12"
-  },
-  {
-   "id": "72303fb0b5ef",
-   "title": "[연구 참여자 모집] AI면접 경험에 관한 연구",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141886&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-12"
-  },
-  {
-   "id": "f86836139107",
-   "title": "겨울방학 중 특수교육 종일반 대학생 자원봉사자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141880&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-12"
   },
   {
    "id": "904065ca5a66",
@@ -247,20 +237,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141498&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-11-13"
-  },
-  {
-   "id": "a7345d6ad794",
-   "title": "[학생사회공헌단 다소미 X 학생성공센터] 2026 배워서 남 주는 프로젝트 성과공유회 개최 안내(-11/15 신청마감)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141494&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-11-13"
-  },
-  {
-   "id": "951fb70d733d",
-   "title": "✅[DS교육센터] 2026-2학기 DS교과지원 TA 모집✅",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140964&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-11-12"
   },
   {
    "id": "5a2fd13ca06a",
