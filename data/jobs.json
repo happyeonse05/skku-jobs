@@ -1,20 +1,6 @@
 {
- "updated": "2026-11-18T11:44:02+09:00",
+ "updated": "2026-11-18T18:35:37+09:00",
  "items": [
-  {
-   "id": "979e38839744",
-   "title": "[HUSS] 미래융합 아카데미(겨울 계절수업) 참여학생 모집(11/26 마감)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142073&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-17"
-  },
-  {
-   "id": "6fa181c0e4d2",
-   "title": "[창업지원단/실험실창업혁신단] 2026 SKKU UNITE 프리 텍스코어(11/28~29) 참가자 모집(이비스 앰배서더 수원, 총상금 350만원)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141498&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-18"
-  },
   {
    "id": "b2f7e29549bc",
    "title": "자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
@@ -23,6 +9,66 @@
    "posted": "2026-11-09",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "979e38839744",
+   "title": "[HUSS] 미래융합 아카데미(겨울 계절수업) 참여학생 모집(11/26 마감)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142073&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-18"
+  },
+  {
+   "id": "db02a52e1890",
+   "title": "성균관대학교 교무처 교무팀(서울) 자체계약직원 채용",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142019&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-18"
+  },
+  {
+   "id": "e17ae8d5cba2",
+   "title": "성균관대학교 소프트웨어융합대학 자체계약직원 채용(2026년 11월 19일 15시 까지 )",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141861&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-18"
+  },
+  {
+   "id": "d461a5ff5b96",
+   "title": "성균융합원 응용AI융합학부 자체직원 채용",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141656&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-18"
+  },
+  {
+   "id": "e0bd87746fd0",
+   "title": "2026학년도 제 16회 성균토론대회 촬영감독 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142105&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-18"
+  },
+  {
+   "id": "27f44ad59b47",
+   "title": "2026학년도 제 16회 성균토론대회 진행위원 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142099&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-18"
+  },
+  {
+   "id": "803aeaabf80e",
+   "title": "[기계기술연구소] 행정조교 채용 공고 (~11/25,목)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142095&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-18",
+   "due": "2026-11-25",
+   "dueText": "~11/25 마감 추정"
+  },
+  {
+   "id": "852d25a90e08",
+   "title": "2026학년도 동계 의료인공지능 체험형 인턴십 프로그램 참가자 모집(~11/27)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141980&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-18",
+   "due": "2026-11-27",
+   "dueText": "~11/27 마감 추정"
   },
   {
    "id": "b631d6527951",
@@ -36,78 +82,6 @@
    "title": "[마감] IBS 뇌과학이미징연구단 행정직원 채용 공고",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141591&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
-   "posted": "2026-11-18"
-  },
-  {
-   "id": "6b1dea8e6baa",
-   "title": "[대학원팀] 4단계 BK21 대학원혁신지원사업 사업추진관리 자체직원 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142085&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-18"
-  },
-  {
-   "id": "db02a52e1890",
-   "title": "성균관대학교 교무처 교무팀(서울) 자체계약직원 채용",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142019&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-18"
-  },
-  {
-   "id": "800c2c8d8d3c",
-   "title": "[대학혁신과공유센터] 제26회 융합기초프로젝트 참가자 모집(~12.23 수까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142082&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-18",
-   "due": "2026-12-23",
-   "dueText": "~12.23 마감 추정"
-  },
-  {
-   "id": "35dfb441e8e5",
-   "title": "[인사캠] 2026년 12월 체력증진센터(경영관, 600주년기념관) 회원모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142011&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-18"
-  },
-  {
-   "id": "fcbaa24cc516",
-   "title": "탄소중립연구소 행정인력 모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141794&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-18"
-  },
-  {
-   "id": "c85bdac2ec67",
-   "title": "[HUSS] BRIDGE Agent 글로벌 프로젝트 참여학생 모집(중국 선전 4박 5일)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142012&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-17"
-  },
-  {
-   "id": "ecd2539f214a",
-   "title": "2026 하반기 교직원(정규직) 신규채용 2차 면접전형 합격자 발표",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141942&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-17"
-  },
-  {
-   "id": "cd8f12662856",
-   "title": "한국연구재단 KCI 등재지 『trans-』 제22권 논문 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141913&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-17"
-  },
-  {
-   "id": "4ea69f8491b3",
-   "title": "[HUSS] 미래융합 아카데미(겨울 계절수업) 참여학생 모집(11/26 마감)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=142073&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-11-17"
-  },
-  {
-   "id": "517b64d64d67",
-   "title": "[창업지원단/실험실창업혁신단] 2026 SKKU UNITE 프리 텍스코어(11/28~29) 참가자 모집(이비스 앰배서더 수원, 총상금 350만원)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141498&article.offset=0&articleLimit=10",
-   "writer": "장학",
    "posted": "2026-11-18"
   },
   {
