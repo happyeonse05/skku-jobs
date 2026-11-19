@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:35:37+09:00",
+ "updated": "2026-11-19T11:15:59+09:00",
  "items": [
   {
    "id": "b2f7e29549bc",
@@ -9,6 +9,31 @@
    "posted": "2026-11-09",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "35dfb441e8e5",
+   "title": "[인사캠] 2026년 12월 체력증진센터(경영관, 600주년기념관) 회원모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142011&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-19"
+  },
+  {
+   "id": "803aeaabf80e",
+   "title": "[기계기술연구소] 행정조교 채용 공고 (~11/25,목)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142095&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-19",
+   "due": "2026-11-25",
+   "dueText": "~11/25 마감 추정"
+  },
+  {
+   "id": "800c2c8d8d3c",
+   "title": "[대학혁신과공유센터] 제26회 융합기초프로젝트 참가자 모집(~12.23 수까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142082&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-19",
+   "due": "2026-12-23",
+   "dueText": "~12.23 마감 추정"
   },
   {
    "id": "979e38839744",
@@ -53,15 +78,6 @@
    "posted": "2026-11-18"
   },
   {
-   "id": "803aeaabf80e",
-   "title": "[기계기술연구소] 행정조교 채용 공고 (~11/25,목)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142095&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-18",
-   "due": "2026-11-25",
-   "dueText": "~11/25 마감 추정"
-  },
-  {
    "id": "852d25a90e08",
    "title": "2026학년도 동계 의료인공지능 체험형 인턴십 프로그램 참가자 모집(~11/27)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141980&article.offset=0&articleLimit=10",
@@ -69,20 +85,6 @@
    "posted": "2026-11-18",
    "due": "2026-11-27",
    "dueText": "~11/27 마감 추정"
-  },
-  {
-   "id": "b631d6527951",
-   "title": "카운슬링센터 촉탁직원(연구원) 채용",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142083&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-18"
-  },
-  {
-   "id": "f5cc08d42b35",
-   "title": "[마감] IBS 뇌과학이미징연구단 행정직원 채용 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141591&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-18"
   },
   {
    "id": "5a2fd13ca06a",
