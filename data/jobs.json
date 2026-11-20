@@ -1,34 +1,6 @@
 {
- "updated": "2026-11-20T11:01:18+09:00",
+ "updated": "2026-11-20T18:30:39+09:00",
  "items": [
-  {
-   "id": "ec1c5e44fe7e",
-   "title": "[청년도약 인재양성 부트캠프] 부트캠프 연구과제 신청 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142145&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-19"
-  },
-  {
-   "id": "db02a52e1890",
-   "title": "성균관대학교 교무처 교무팀(서울) 자체계약직원 채용",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142019&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-20"
-  },
-  {
-   "id": "1b6c6643a762",
-   "title": "★ 2026 제2회 성균관대학교 삼성융합의과학원 국제심포지엄 안내 ★(11월 30일(월)까지 홈페이지 사전 등록 )",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141690&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-20"
-  },
-  {
-   "id": "6fa181c0e4d2",
-   "title": "[창업지원단/실험실창업혁신단] 2026 SKKU UNITE 프리 텍스코어(11/28~29) 참가자 모집(이비스 앰배서더 수원, 총상금 350만원)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141498&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-20"
-  },
   {
    "id": "b2f7e29549bc",
    "title": "자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
@@ -39,6 +11,45 @@
    "dueText": "~12/18 마감 추정"
   },
   {
+   "id": "db02a52e1890",
+   "title": "성균관대학교 교무처 교무팀(서울) 자체계약직원 채용",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142019&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-20"
+  },
+  {
+   "id": "59b2a755c735",
+   "title": "[마감] 성균관대학교 성균융합원행정실 자체계약직원 채용 (수원)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141997&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-20"
+  },
+  {
+   "id": "d873b115d7a8",
+   "title": "[채용/모집] 자연과학대학 수학과사무실 행정업무 조교 채용 (~11/25(수)까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141604&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-20",
+   "due": "2026-11-25",
+   "dueText": "~11/25 마감 추정"
+  },
+  {
+   "id": "ec1c5e44fe7e",
+   "title": "[청년도약 인재양성 부트캠프] 부트캠프 연구과제 신청 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142145&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-20"
+  },
+  {
+   "id": "897b0b3d7b0d",
+   "title": "[학생인재개발팀] 국가고시 길라잡이 합격수기 모집(노무사, 세무사, 감평사, 관세사, 법무사) (~11.29.일)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142156&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-20",
+   "due": "2026-11-29",
+   "dueText": "~11.29 마감 추정"
+  },
+  {
    "id": "800c2c8d8d3c",
    "title": "[대학혁신과공유센터] 제26회 융합기초프로젝트 참가자 모집(~12.23 수까지)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142082&article.offset=0&articleLimit=10",
@@ -46,15 +57,6 @@
    "posted": "2026-11-20",
    "due": "2026-12-23",
    "dueText": "~12.23 마감 추정"
-  },
-  {
-   "id": "897b0b3d7b0d",
-   "title": "국가고시 길라잡이 합격수기 모집(노무사, 세무사, 감평사, 관세사, 법무사) (~11.23.월)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142156&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-20",
-   "due": "2026-11-23",
-   "dueText": "~11.23 마감 추정"
   },
   {
    "id": "9d6266bfc614",
@@ -85,64 +87,6 @@
    "posted": "2026-11-19",
    "due": "2026-11-22",
    "dueText": "~11/22 마감 추정"
-  },
-  {
-   "id": "135ff3959356",
-   "title": "[운용재] 2026년 기술고시반 신입실원 상시모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142139&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-19"
-  },
-  {
-   "id": "ed59416b21c5",
-   "title": "[운용재] 2026년 변리사반 신입실원 모집안내 (추가모집)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142138&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-19"
-  },
-  {
-   "id": "35dfb441e8e5",
-   "title": "[인사캠] 2026년 12월 체력증진센터(경영관, 600주년기념관) 회원모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142011&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-19"
-  },
-  {
-   "id": "803aeaabf80e",
-   "title": "[기계기술연구소] 행정조교 채용 공고 (~11/25,목)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142095&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-19",
-   "due": "2026-11-25",
-   "dueText": "~11/25 마감 추정"
-  },
-  {
-   "id": "715cd357ca32",
-   "title": "[청년도약 인재양성 부트캠프] 부트캠프 연구과제 신청 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=142145&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-11-19"
-  },
-  {
-   "id": "f538bb0a8eb2",
-   "title": "성균관대학교 교무처 교무팀(서울) 자체계약직원 채용",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=142019&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-11-20"
-  },
-  {
-   "id": "86eaf7df1385",
-   "title": "★ 2026 제2회 성균관대학교 삼성융합의과학원 국제심포지엄 안내 ★(11월 30일(월)까지 홈페이지 사전 등록 )",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141690&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-11-20"
-  },
-  {
-   "id": "517b64d64d67",
-   "title": "[창업지원단/실험실창업혁신단] 2026 SKKU UNITE 프리 텍스코어(11/28~29) 참가자 모집(이비스 앰배서더 수원, 총상금 350만원)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141498&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-11-20"
   },
   {
    "id": "5a2fd13ca06a",
