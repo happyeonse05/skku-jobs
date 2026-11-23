@@ -2,6 +2,9 @@
 """성균관대 채용·모집 공지 크롤러 → data/jobs.json
 공지 게시판 주소가 바뀌면 아래 BOARDS만 고치면 됩니다."""
 import json, re, hashlib, datetime, pathlib
+import os
+import stat
+import tempfile
 import requests
 from bs4 import BeautifulSoup
 
@@ -70,25 +73,47 @@ def crawl_board(name, url):
         items.append(item)
     return items
 
+def write_snapshot(path, payload):
+    """Publish one complete UTF-8 feed without truncating the previous file."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    mode = stat.S_IMODE(path.stat().st_mode) if path.exists() else 0o644
+    temporary = None
+    try:
+        with tempfile.NamedTemporaryFile(mode="w", encoding="utf-8", dir=path.parent,
+                                         prefix=f".{path.name}.", suffix=".tmp",
+                                         delete=False) as handle:
+            temporary = pathlib.Path(handle.name)
+            json.dump(payload, handle, ensure_ascii=False, indent=1)
+            handle.flush()
+            os.chmod(temporary, mode)
+            os.fsync(handle.fileno())
+        os.replace(temporary, path)
+    finally:
+        if temporary is not None:
+            temporary.unlink(missing_ok=True)
+
+
 def main():
-    all_items, ok = [], False
+    all_items, complete = [], bool(BOARDS)
     for name, url in BOARDS:
         try:
             got = crawl_board(name, url)
             all_items += got
-            if got: ok = True
+            if not got: complete = False
             print(f"[jobs] {name}: {len(got)}건")
         except Exception as e:
+            complete = False
             print(f"[jobs] {name} 실패: {e}")
-    if not ok and OUT.exists():
-        print("[jobs] 새 데이터 없음 → 기존 파일 유지"); return
+    if not complete:
+        print("[jobs] 수집 미완료 → 기존 파일 유지 (새 파일 발행 안 함)")
+        return False
     all_items = all_items[:60]
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps({
+    write_snapshot(OUT, {
         "updated": datetime.datetime.now(KST).isoformat(timespec="seconds"),
         "items": all_items,
-    }, ensure_ascii=False, indent=1), encoding="utf-8")
+    })
     print(f"[jobs] 저장 완료: {len(all_items)}건")
+    return True
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(0 if main() else 1)
