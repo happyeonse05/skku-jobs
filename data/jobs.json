@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-24T14:08:15+09:00",
+ "updated": "2026-11-24T20:53:33+09:00",
  "items": [
-  {
-   "id": "9f889cb49fbb",
-   "title": "[특강 안내] 같은 나라, 다른 노년: 초고령사회 한국을 뒤르켐으로 다시 읽기 (국내학자 초청 집중특강)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142297&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-24"
-  },
   {
    "id": "b2f7e29549bc",
    "title": "자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
@@ -16,6 +9,15 @@
    "posted": "2026-11-09",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "924d2e07dbb4",
+   "title": "사회과학/예술대학행정실 행정조교 모집[~11.30.(월) 16:00까지]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142313&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-24",
+   "due": "2026-11-30",
+   "dueText": "~11.30 마감 추정"
   },
   {
    "id": "b1b8c8117257",
@@ -87,20 +89,6 @@
    "posted": "2026-11-23"
   },
   {
-   "id": "8598ee94bbd6",
-   "title": "[뇌과학이미징연구단] 지각과 기억의 뇌 메커니즘 실험 참여자 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142242&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-23"
-  },
-  {
-   "id": "b0bcc0bd5a5c",
-   "title": "[특강 안내] 같은 나라, 다른 노년: 초고령사회 한국을 뒤르켐으로 다시 읽기 (국내학자 초청 집중특강)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=142297&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-11-24"
-  },
-  {
    "id": "5a2fd13ca06a",
    "title": "자연과학캠퍼스 통학 셔틀버스 시범운행 안내 (10/19~12/18)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140492&article.offset=0&articleLimit=10",
@@ -108,6 +96,20 @@
    "posted": "2026-11-09",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "a7cbaa7880f2",
+   "title": "2027년도 세아해암학술장학재단 제35기 장학생 선발 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=142223&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-24"
+  },
+  {
+   "id": "8d750904342d",
+   "title": "2027년 1학기 한국농어촌희망재단 「청년창업농장학금」장학생 선발 안내(26.12.1 10:00 ~ 27.1.5 17:00)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=142305&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-24"
   },
   {
    "id": "e26e2d52f889",
@@ -124,13 +126,6 @@
    "posted": "2026-11-23",
    "due": "2027-01-07",
    "dueText": "~1/7 마감 추정"
-  },
-  {
-   "id": "a7cbaa7880f2",
-   "title": "2027년도 세아해암학술장학재단 제35기 장학생 선발 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=142223&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-11-23"
   },
   {
    "id": "f439bb546ee3",
@@ -175,13 +170,6 @@
    "id": "ac2fb05dd60a",
    "title": "2027년도 유하푸른장학재단 10기 장학생 선발 안내",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141782&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-11-11"
-  },
-  {
-   "id": "07c630de5ce1",
-   "title": "2026학년도 한국고등교육재단 제6기 문우림 장학생 선발 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141765&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-11-11"
   }
