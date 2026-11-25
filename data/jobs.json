@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-25T12:56:47+09:00",
+ "updated": "2026-11-25T19:45:40+09:00",
  "items": [
+  {
+   "id": "86915665e562",
+   "title": "성균관대학교 AI반도체혁신연구소 행정직원 모집(~12/08(화)까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142385&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-25",
+   "due": "2026-12-08",
+   "dueText": "~12/08 마감 추정"
+  },
+  {
+   "id": "2a6991c52e0c",
+   "title": "[실험 참가자 모집] AI 챗봇과의 대화에 관한 사용자 경험 연구 (온라인 참여)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142379&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-25"
+  },
+  {
+   "id": "b78b06bc9c0a",
+   "title": "[마감 임박 D-8] KCI 등재지 『TRANS』 2026 전통의례와 디지털 현전 논문공모전 안내 (12/3 마감)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142376&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-25"
+  },
   {
    "id": "0b9359a4cebb",
    "title": "[성균관대·POSTECH 공동주최] 행정혁신포럼「AI시대의 대학행정」참가방법 안내",
@@ -41,6 +64,47 @@
    "dueText": "~12/18 마감 추정"
   },
   {
+   "id": "800c2c8d8d3c",
+   "title": "[대학혁신과공유센터] 제26회 융합기초프로젝트 참가자 모집(~12.23 수까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142082&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-25",
+   "due": "2026-12-23",
+   "dueText": "~12.23 마감 추정"
+  },
+  {
+   "id": "31720c999c9c",
+   "title": "[IT융합연구원] 행정직원 채용 공고 (~12/2, 수)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142381&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-25",
+   "due": "2026-12-02",
+   "dueText": "~12/2 마감 추정"
+  },
+  {
+   "id": "b1b8c8117257",
+   "title": "[교수학습혁신센터] 2026학년도 겨울방학 “성균공부방 : Share via AI” 17기 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142181&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-25"
+  },
+  {
+   "id": "ddccaf97d375",
+   "title": "글로벌바이오메디컬공학과 자연모사생체재료공학 연구실 대학원생/박사후연구원 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142375&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-25"
+  },
+  {
+   "id": "08b6e025ca28",
+   "title": "성균경영인포럼 근로학생 모집 (~12/4)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142361&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-25",
+   "due": "2026-12-04",
+   "dueText": "~12/4 마감 추정"
+  },
+  {
    "id": "2d8a085bb174",
    "title": "[실험 참가자 모집] 정서지원 AI 대화 실험 참가자 모집 (실험 참가비 75000원)",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142359&article.offset=0&articleLimit=10",
@@ -62,22 +126,6 @@
    "posted": "2026-11-25"
   },
   {
-   "id": "b1b8c8117257",
-   "title": "[교수학습혁신센터] 2026학년도 겨울방학 “성균공부방 : Share via AI” 17기 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142181&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-25"
-  },
-  {
-   "id": "800c2c8d8d3c",
-   "title": "[대학혁신과공유센터] 제26회 융합기초프로젝트 참가자 모집(~12.23 수까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142082&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-25",
-   "due": "2026-12-23",
-   "dueText": "~12.23 마감 추정"
-  },
-  {
    "id": "924d2e07dbb4",
    "title": "사회과학/예술대학행정실 행정조교 모집[~11.30.(월) 16:00까지]",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142313&article.offset=0&articleLimit=10",
@@ -94,29 +142,27 @@
    "posted": "2026-11-24"
   },
   {
-   "id": "d873b115d7a8",
-   "title": "[채용/모집] 자연과학대학 수학과사무실 행정업무 조교 채용 (~11/25(수)까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141604&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-24",
-   "due": "2026-11-25",
-   "dueText": "~11/25 마감 추정"
+   "id": "7113f09073c9",
+   "title": "성균관대학교 AI반도체혁신연구소 행정직원 모집(~12/08(화)까지)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=142385&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-25",
+   "due": "2026-12-08",
+   "dueText": "~12/08 마감 추정"
   },
   {
-   "id": "49cedf86a5db",
-   "title": "경제대학 경제학과 행정조교 신규 채용 ~12.4.(금) 16시까지(합격자 결정 시 조기마감 가능)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=139855&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-24",
-   "due": "2026-12-04",
-   "dueText": "~12.4 마감 추정"
+   "id": "7783084afde9",
+   "title": "[실험 참가자 모집] AI 챗봇과의 대화에 관한 사용자 경험 연구 (온라인 참여)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=142379&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-25"
   },
   {
-   "id": "49e34096e231",
-   "title": "(자)1398피트니스센터 12월등록",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142256&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-24"
+   "id": "765da9d8932f",
+   "title": "[마감 임박 D-8] KCI 등재지 『TRANS』 2026 전통의례와 디지털 현전 논문공모전 안내 (12/3 마감)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=142376&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-25"
   },
   {
    "id": "128c39c1a7e7",
