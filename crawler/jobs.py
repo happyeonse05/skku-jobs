@@ -33,10 +33,14 @@ def find_due(title):
             mo, d = int(m[1]), int(m[2])
             if 1 <= mo <= 12 and 1 <= d <= 31:
                 year = TODAY.year
-                try: due = datetime.date(year, mo, d)
-                except ValueError: continue
-                # 이미 한참 지난 날짜면 내년으로 해석 (12월에 1월 마감 공지 등)
-                if (TODAY - due).days > 90: due = datetime.date(year + 1, mo, d)
+                try:
+                    due = datetime.date(year, mo, d)
+                    # 이미 한참 지난 날짜면 내년으로 해석 (12월에 1월 마감 공지 등)
+                    if (TODAY - due).days > 90: due = datetime.date(year + 1, mo, d)
+                except ValueError:
+                    # A leap-day estimate may not exist in the following year.
+                    # Keep the notice without inventing a different deadline.
+                    continue
                 return due.isoformat(), m.group(0)
     return None, None
 
