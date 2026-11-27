@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:17:43+09:00",
+ "updated": "2026-11-27T12:29:08+09:00",
  "items": [
   {
    "id": "aaf32d5b9d83",
@@ -26,10 +26,10 @@
   },
   {
    "id": "2a6991c52e0c",
-   "title": "[실험 참가자 모집] AI 챗봇과의 대화에 관한 사용자 경험 연구 (온라인 참여)",
+   "title": "[온라인실험참여자 모집(35분 만원] - AI 챗봇과의 대화에 관한 사용자 경험 연구",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142379&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
-   "posted": "2026-11-25"
+   "posted": "2026-11-27"
   },
   {
    "id": "b78b06bc9c0a",
@@ -37,13 +37,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142376&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-11-25"
-  },
-  {
-   "id": "0b9359a4cebb",
-   "title": "[성균관대·POSTECH 공동주최] 행정혁신포럼「AI시대의 대학행정」참가방법 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142350&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-26"
   },
   {
    "id": "b5751d90a9f2",
@@ -201,10 +194,10 @@
   },
   {
    "id": "7783084afde9",
-   "title": "[실험 참가자 모집] AI 챗봇과의 대화에 관한 사용자 경험 연구 (온라인 참여)",
+   "title": "[온라인실험참여자 모집(35분 만원] - AI 챗봇과의 대화에 관한 사용자 경험 연구",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=142379&article.offset=0&articleLimit=10",
    "writer": "장학",
-   "posted": "2026-11-25"
+   "posted": "2026-11-27"
   },
   {
    "id": "765da9d8932f",
@@ -212,13 +205,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=142376&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-11-25"
-  },
-  {
-   "id": "128c39c1a7e7",
-   "title": "[성균관대·POSTECH 공동주최] 행정혁신포럼「AI시대의 대학행정」참가방법 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=142350&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-11-26"
   },
   {
    "id": "963ef50cc2e9",
@@ -274,6 +260,13 @@
    "posted": "2026-11-09",
    "due": "2026-12-18",
    "dueText": "~12/18 마감 추정"
+  },
+  {
+   "id": "01868919178a",
+   "title": "2027-2028 중국 정부초청 장학생 선발 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=142424&article.offset=0&articleLimit=10",
+   "writer": "장학",
+   "posted": "2026-11-27"
   },
   {
    "id": "2e5ec21e9c29",
@@ -341,13 +334,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141811&article.offset=0&articleLimit=10",
    "writer": "장학",
    "posted": "2026-11-12"
-  },
-  {
-   "id": "ac2fb05dd60a",
-   "title": "2027년도 유하푸른장학재단 10기 장학생 선발 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=141782&article.offset=0&articleLimit=10",
-   "writer": "장학",
-   "posted": "2026-11-11"
   }
  ]
 }
