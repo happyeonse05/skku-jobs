@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:29:08+09:00",
+ "updated": "2026-11-27T19:23:43+09:00",
  "items": [
   {
    "id": "aaf32d5b9d83",
@@ -94,6 +94,45 @@
    "dueText": "~12/18 마감 추정"
   },
   {
+   "id": "924d2e07dbb4",
+   "title": "사회과학/예술대학행정실 행정조교 모집[~11.30.(월) 16:00까지]",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142313&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-27",
+   "due": "2026-11-30",
+   "dueText": "~11.30 마감 추정"
+  },
+  {
+   "id": "c85bdac2ec67",
+   "title": "[HUSS] BRIDGE Agent 글로벌 프로젝트 참여학생 모집(중국 선전 4박 5일)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142012&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-27"
+  },
+  {
+   "id": "091410a4c509",
+   "title": "[HUSS] 사회문제 해결 창업 프로젝트: 2026-2027 EF 헐트프라이즈(EF Hult Prize) 성균관대학교 도전팀 2차 모집 안내(11/27 마감)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141726&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-27"
+  },
+  {
+   "id": "852d25a90e08",
+   "title": "(LG AI연구원 업데이트)2026학년도 동계 의료인공지능 체험형 인턴십 프로그램 참가자 모집(~11/27)",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141980&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-27",
+   "due": "2026-11-27",
+   "dueText": "~11/27 마감 추정"
+  },
+  {
+   "id": "8598ee94bbd6",
+   "title": "[뇌과학이미징연구단] 지각과 기억의 뇌 메커니즘 실험 참여자 모집",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142242&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-27"
+  },
+  {
    "id": "b5855f033e54",
    "title": "AI x Seoul 혁신 콘텐츠 공모전 작품 공모",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142007&article.offset=0&articleLimit=10",
@@ -127,47 +166,6 @@
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142234&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-11-26"
-  },
-  {
-   "id": "852d25a90e08",
-   "title": "(LG AI연구원 업데이트)2026학년도 동계 의료인공지능 체험형 인턴십 프로그램 참가자 모집(~11/27)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=141980&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-26",
-   "due": "2026-11-27",
-   "dueText": "~11/27 마감 추정"
-  },
-  {
-   "id": "35dfb441e8e5",
-   "title": "[인사캠] 2026년 12월 체력증진센터(경영관, 600주년기념관) 회원모집 안내",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142011&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-26"
-  },
-  {
-   "id": "800c2c8d8d3c",
-   "title": "[대학혁신과공유센터] 제26회 융합기초프로젝트 참가자 모집(~12.23 수까지)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142082&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-26",
-   "due": "2026-12-23",
-   "dueText": "~12.23 마감 추정"
-  },
-  {
-   "id": "31720c999c9c",
-   "title": "[IT융합연구원] 행정직원 채용 공고 (~12/2, 수)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142381&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-25",
-   "due": "2026-12-02",
-   "dueText": "~12/2 마감 추정"
-  },
-  {
-   "id": "ddccaf97d375",
-   "title": "글로벌바이오메디컬공학과 자연모사생체재료공학 연구실 대학원생/박사후연구원 모집",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142375&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-25"
   },
   {
    "id": "22a96295ab6e",
