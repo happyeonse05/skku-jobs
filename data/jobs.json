@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:23:43+09:00",
+ "updated": "2026-11-28T12:05:24+09:00",
  "items": [
   {
    "id": "aaf32d5b9d83",
@@ -94,6 +94,20 @@
    "dueText": "~12/18 마감 추정"
   },
   {
+   "id": "d19629b07382",
+   "title": "2026학년도 국제동계학기(WISE) 기숙사 조교(HA) 추가 모집 안내",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142441&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-27"
+  },
+  {
+   "id": "bf19e6b6422c",
+   "title": "[ 온라인 실험 참가자 모집 (보상 5,000원) ] 생성형 AI와 상호작용 연구",
+   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142439&article.offset=0&articleLimit=10",
+   "writer": "채용·모집",
+   "posted": "2026-11-27"
+  },
+  {
    "id": "924d2e07dbb4",
    "title": "사회과학/예술대학행정실 행정조교 모집[~11.30.(월) 16:00까지]",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142313&article.offset=0&articleLimit=10",
@@ -150,20 +164,6 @@
    "id": "da007314962c",
    "title": "미래인문학기반사회혁신창업교육연구단 BK연구교수 채용",
    "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142410&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-26"
-  },
-  {
-   "id": "2d8a085bb174",
-   "title": "[실험 참가자 모집] 정서지원 AI 대화 실험 참가자 모집 (실험 참가비 75000원)",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142359&article.offset=0&articleLimit=10",
-   "writer": "채용·모집",
-   "posted": "2026-11-26"
-  },
-  {
-   "id": "11c362299bef",
-   "title": "[예필재 언론사준비반] 2027년 상반기 실원 모집 공고",
-   "url": "https://www.skku.edu/skku/campus/skk_comm/notice05.do?mode=view&articleNo=142234&article.offset=0&articleLimit=10",
    "writer": "채용·모집",
    "posted": "2026-11-26"
   },
