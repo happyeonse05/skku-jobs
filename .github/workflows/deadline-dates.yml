@@ -1,0 +1,27 @@
+name: Notice deadline calendar
+on:
+  pull_request:
+    paths:
+      - crawler/jobs.py
+      - tests/test_deadlines.py
+      - .github/workflows/deadline-dates.yml
+  push:
+    branches: ['codex/skku-leap-deadline-*']
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ['3.12', '3.13']
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065
+        with:
+          python-version: ${{ matrix.python }}
+      - run: python -m pip install requests beautifulsoup4 lxml
+      - run: python -m unittest discover -s tests -v
+      - run: python -m compileall -q crawler tests
